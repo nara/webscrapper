@@ -1,0 +1,911 @@
+<!DOCTYPE html><html><head><script>(function(){(function(){function e(a){this.t={};this.tick=function(a,c,b){var d=void 0!=b?b:(new Date).getTime();this.t[a]=[d,c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(h){}};this.tick("start",null,a)}var a,d;window.performance&&(d=(a=window.performance.timing)&&a.responseStart);var f=0<d?new e(d):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_","_wtsrt",
+d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})();}).call(this);
+</script><title>Telecommunications Services - Google Finance</title><meta name="Description" content="Get real-time stock quotes &amp; charts, financial news, currency conversions, or track your portfolio with Google Finance."><meta http-equiv="X-UA-Compatible" content="IE=10"><link rel="stylesheet" type="text/css" href="/finance/f/finance_us-1489929081.css"><link rel="stylesheet" type="text/css" href="/_/scs/finance-static/_/ss/k=finance.a.x7heix82rby5.L.X.O/d=0/rs=AGHGApGGyMTYIG0S-XdTFFcL0gvZpAxOZg"><link rel="icon" type="image/vnd.microsoft.icon" href="/finance/favicon.ico"><style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important;}#gbar{padding-left:8px;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}
+</style><script></script><script async="" defer="" src="//www.google.com/insights/consumersurveys/async_survey?site=xusttduenzseze54mcajwbd6sq"></script><script>
+      function _rpt() {}
+      function _tck() {}
+    </script><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-40765809-1', {
+      'allowLinker': true,
+      'cookiePath': '/finance'
+    });
+    ga('send', 'pageview');
+    </script></head><body><div class=fjfe-bodywrapper><div id=fjfe-real-body class=g-doc><input type="text" name="hist_state" id="hist_state" style="display:none;"><iframe id="hist_frame" name="hist_frame" class=invfr tabindex="-1"></iframe><iframe src="/_/scs/finance-static/_/js/k=finance.a.en_US.9R147Dhnn8c.O/m=b/rt=h/d=0/rs=AGHGApGszSEHbMoXAq0_ObWO6zwfX-urUw" class=invfr tabindex="-1"></iframe><div id=gbar><nobr><a class=gb1 href="https://www.google.com/webhp?tab=ew">Search</a> <a class=gb1 href="http://www.google.com/imghp?hl=en&tab=ei">Images</a> <a class=gb1 href="https://maps.google.com/maps?hl=en&tab=el">Maps</a> <a class=gb1 href="https://play.google.com/?hl=en&tab=e8">Play</a> <a class=gb1 href="https://www.youtube.com/?tab=e1">YouTube</a> <a class=gb1 href="https://news.google.com/nwshp?hl=en&tab=en">News</a> <a class=gb1 href="https://mail.google.com/mail/?tab=em">Gmail</a> <a class=gb1 href="https://drive.google.com/?tab=eo">Drive</a> <a class=gb1 style="text-decoration:none" href="https://www.google.com/intl/en/options/"><u>More</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a  href="http://www.google.com/support/finance?hl=en" class=gb4>Help</a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?service=finance&passive=1209600&continue=https://www.google.com/finance?catid%3DTRBC:58%26sort%3DPE_RATIO%26ei%3DYcHVWLHPCs6S2AbvrKXgDw%26start%3D40%26num%3D20&followup=https://www.google.com/finance?catid%3DTRBC:58%26sort%3DPE_RATIO%26ei%3DYcHVWLHPCs6S2AbvrKXgDw%26start%3D40%26num%3D20" class=gb4>Sign in</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div><div id=fjfe-click-wrapper><script>
+(function() {
+  var l = window.location;
+  var q = l.search ? l.search.substr(1) : '';
+  var h = l.hash ? l.hash.substr(1) : '';
+  var p = '/finance';
+  var ss = 'stockscreener';
+  var conn = window.history && window.history.pushState ? '/' : '#';
+  if (l.pathname == p + '/' + ss) {
+    if (h) l.href = p + conn + ss + '?' + q + '&' + h;
+  } else if (l.pathname != p && h) {
+    l.href = p + l.hash;
+  }
+  if (h) {
+document.getElementById('fjfe-click-wrapper').style.display = 'none';
+  }
+})();
+</script><div id=gf-head class="g-section g-tpl-75-25 g-split"><div class="g-unit g-first"><div class=fjfe-logo><a href="/finance/?ei=ksHVWPjsIsWR2Abp97i4Dg"><img src="/finance/f/logo_material-4224265490.png" alt="Google Finance"></a></div><div id=gf-search class=fjfe-search><form method="get" action="/finance" autocomplete="off"><input class=fjfe-searchbox-input name=q type=text tabindex=1 value=""></input><span class=fjfe-searchbox-button-wrapper><span class=fjfe-searchbox-button-wrapper2><input class=fjfe-searchbox-button type=submit tabindex=2 value="Get quotes"></input></span></span><input type=hidden name="ei" value="ksHVWPjsIsWR2Abp97i4Dg"></input></form></div></div><div class="g-unit fjfe-promo"><div id="ad2-target" class="id-ad2-target"></div></div></div><div class=elastic><div id=app class="g-section g-tpl-left-11p4em"><div class="g-unit g-first"><div id=gf-nav><div class=fjfe-nav-nav><ul class=fjfe-nav id=navmenu><li class="fjfe-nav-expanded fjfe-nav-selected">Sector<li class=fjfe-nav-sub><div>Summary</div><li class=fjfe-nav-sub><a href="/finance/category_news?catid=TRBC:58&amp;ei=ksHVWPjsIsWR2Abp97i4Dg">News</a><li class=fjfe-nav-item><a href="/finance?ei=ksHVWPjsIsWR2Abp97i4Dg"><div>Markets</div></a><li class=fjfe-nav-item><a href="/finance/market_news?ei=ksHVWPjsIsWR2Abp97i4Dg"><div>News</div></a><li class=fjfe-nav-item><a href="/finance/portfolio?action=view&amp;ei=ksHVWPjsIsWR2Abp97i4Dg"><div>Portfolios</div></a><li class=fjfe-nav-item><a href="/finance/stockscreener?ei=ksHVWPjsIsWR2Abp97i4Dg"><div>Stock screener</div></a><li class=fjfe-nav-item><a href="/finance/domestic_trends?ei=ksHVWPjsIsWR2Abp97i4Dg"><div>Google Domestic Trends</div></a></ul></div><div class="fjfe-recentquotes fjfe-recentquotes-noquote"><h4>Recent Quotes <span class="fjfe-recentquotes-duration">(<a href="//www.google.com/history/optout?hl=en">30 days</a>)</span></h4><div class=fjfe-recentquotes-noquote-notification>You have no recent quotes</div><div class=fjfe-recentquotes-quotes><div class="fjfe-toggle fjfe-toggle-button"><span class=fjfe-chg-toggle>chg</span> | <span class=fjfe-perc-toggle>%</span></div><div class=fjfe-table-div><table class=fjfe-recentquotes-table id=rq width=100%></table></div></div></div></div></div><div class=g-unit id=gf-viewc><div class=fjfe-content>
+<style>
+tr.hdg {background-color:#E5ECF9; padding: 2px 0 2px 2px;}
+tr.hdgr td {background-color:#E5ECF9; padding: 2px 0 2px 2px;}
+.highlightWhite td { background-color:#FFFFFF; }
+.highlightGrey td { background-color:#EFEFEF; }
+.highlightGreyRelated td { background-color:#EFEFEF; }
+.highlight1 { background-color:#FFFFFF; }
+.highlight2 { background-color:#EFEFEF; }
+.selected1 { background-color:#FEFED7; }
+.selected2 { background-color:#F6F6D1; }
+.bld {font-weight:bold;}
+.chg {color:#008000;}
+.chr {color:#AA0033;}
+.chb {color:#000000;}
+.chrSectorDark { background-color:#B73B3B }
+.chrSectorLight { background-color:#FFCEBE }
+.chgSectorDark { background-color:#2CC42C }
+.chgSectorLight { background-color:#ACF4AC }
+.ndiv {
+padding: 1px 0 1px 0;
+white-space: normal;
+}
+.related {
+margin-top:-2px; margin-left:30px; margin-bottom:0px; margin-right:5px;
+padding:7px 10px 10px 10px; line-height:1.3em;
+border:2px solid #9DDF99; width:100%;
+display:none; position:absolute; z-index:2; background-color:#FFFFFF;
+}
+.rg {color:#008000; padding:0 5px 0 5px;}
+.rl {color:#000; padding:0 5px 0 5px;background-color:#9DDF99;text-decoration:none;}
+</style>
+<div class="g-section sfe-break-bottom-13">
+<div class="hdg top appbar-hide"><h3>
+Telecommunications Services
+</h3></div>
+</div>
+<div class="g-section g-tpl-right-1">
+<div class="g-unit g-first">
+<div class=g-c>
+<div style=padding-bottom:1.5em;>
+<table id=subcategory cellpadding=0 cellspacing=0 width=100%>
+<tr><td>
+<div class=hdg>&nbsp;<h3>Subcategories</h3></div>
+<div class=sfe-section>
+<div class=sfe-break-bottom-4>
+<a href="/finance?catid=us-TRBC:5810&amp;ei=ksHVWPjsIsWR2Abp97i4Dg">Telecommunications Services</a></div>
+</div>
+</table>
+</div>
+</div>
+</div>
+<div class=g-unit>
+<div class="g-c sfe-break-right">
+<table width=100% id=category_chart class="category_chart_table" cellpadding=0 cellspacing=0>
+<tr valign="top" width=100%>
+<td align=center colspan=2 width=100% bgcolor=white>
+<div id=market-data-div class=category_market_data_nojs width=100%></div>
+<div id=chart_anchor class="id-chart_anchor category_chart_anchor_nojs">
+</div>
+<div class=id-chart-footer></div>
+<tr>
+<td><img alt="" id=cleardot src="/finance/s/m4C5KaofCbA/images/cleardot.gif" width="360" height="1"/>
+</table>
+<div id=topmovers_header>
+<div class="hdg"><div class="g-section g-tpl-50-50 g-split">
+<div class="g-unit g-first"><h3>Top movers</h3></div>
+<div class="g-unit">Generated <b>4 hours ago</b>
+</div>
+</div></div>
+</div>
+<div class="sfe-break-bottom">
+<table class="topmovers" cellpadding=0 cellspacing=0 width=95% valign="top">
+<tr >
+<td style="text-align:left" colspan=2><b>Gainers (% price change)</b>
+<td width=15%>Last&nbsp;Trade
+<td width=20%>Change
+<td width=15%>
+Mkt&nbsp;Cap
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:FTR&ei=ksHVWPjsIsWR2Abp97i4Dg" >Frontier Communications</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:FTR&ei=ksHVWPjsIsWR2Abp97i4Dg" >FTR</a>
+<td>2.09
+<td width=20%>
+<span class=chg>+0.15</span>
+<span class=chg>(7.73%)</span>
+<td>2.25B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:EGHT&ei=ksHVWPjsIsWR2Abp97i4Dg" >8x8, Inc.</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:EGHT&ei=ksHVWPjsIsWR2Abp97i4Dg" >EGHT</a>
+<td>14.95
+<td width=20%>
+<span class=chg>+0.65</span>
+<span class=chg>(4.55%)</span>
+<td>1.35B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:CHU&ei=ksHVWPjsIsWR2Abp97i4Dg" >China Unicom (Hong Kong</a>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:CHU&ei=ksHVWPjsIsWR2Abp97i4Dg" >CHU</a>
+<td>13.44
+<td width=20%>
+<span class=chg>+0.40</span>
+<span class=chg>(3.07%)</span>
+<td>31.99B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:VIV&ei=ksHVWPjsIsWR2Abp97i4Dg" >Telefonica Brasil SA (ADR</a>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:VIV&ei=ksHVWPjsIsWR2Abp97i4Dg" >VIV</a>
+<td>14.95
+<td width=20%>
+<span class=chg>+0.22</span>
+<span class=chg>(1.49%)</span>
+<td>23.12B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:TEO&ei=ksHVWPjsIsWR2Abp97i4Dg" >Telecom Argentina SA (ADR</a>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:TEO&ei=ksHVWPjsIsWR2Abp97i4Dg" >TEO</a>
+<td>22.21
+<td width=20%>
+<span class=chg>+0.29</span>
+<span class=chg>(1.32%)</span>
+<td>2.11B
+<tr class=beginsec>
+<td style="text-align:left" colspan=2><b>Losers (% price change)</b>
+<td colspan=3>
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:IIJI&ei=ksHVWPjsIsWR2Abp97i4Dg" >Internet Initiative Japan</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:IIJI&ei=ksHVWPjsIsWR2Abp97i4Dg" >IIJI</a>
+<td>8.91
+<td width=20%>
+<span class=chr>-0.18</span>
+<span class=chr>(-1.98%)</span>
+<td>831.03M
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:BT&ei=ksHVWPjsIsWR2Abp97i4Dg" >BT Group plc (ADR)</a>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:BT&ei=ksHVWPjsIsWR2Abp97i4Dg" >BT</a>
+<td>20.36
+<td width=20%>
+<span class=chr>-0.35</span>
+<span class=chr>(-1.69%)</span>
+<td>40.59B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:PTNR&ei=ksHVWPjsIsWR2Abp97i4Dg" >Partner Communications Co</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:PTNR&ei=ksHVWPjsIsWR2Abp97i4Dg" >PTNR</a>
+<td>5.49
+<td width=20%>
+<span class=chr>-0.09</span>
+<span class=chr>(-1.61%)</span>
+<td>878.41M
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:NQ&ei=ksHVWPjsIsWR2Abp97i4Dg" >NQ Mobile Inc (ADR)</a>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:NQ&ei=ksHVWPjsIsWR2Abp97i4Dg" >NQ</a>
+<td>3.71
+<td width=20%>
+<span class=chr>-0.05</span>
+<span class=chr>(-1.20%)</span>
+<td>356.80M
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:BBOX&ei=ksHVWPjsIsWR2Abp97i4Dg" >Black Box Corporation</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:BBOX&ei=ksHVWPjsIsWR2Abp97i4Dg" >BBOX</a>
+<td>8.65
+<td width=20%>
+<span class=chr>-0.10</span>
+<span class=chr>(-1.14%)</span>
+<td>134.89M
+<tr class=beginsec>
+<td style="text-align:left" colspan=2><b>Most Actives (dollar volume)</b>
+<td colspan=3>
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:CMCSA&ei=ksHVWPjsIsWR2Abp97i4Dg" >Comcast Corporation</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:CMCSA&ei=ksHVWPjsIsWR2Abp97i4Dg" >CMCSA</a>
+<td>37.38
+<td width=20%>
+<span class=chg>+0.16</span>
+<span class=chg>(0.43%)</span>
+<td>177.76B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:T&ei=ksHVWPjsIsWR2Abp97i4Dg" >AT&amp;T Inc.</a>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:T&ei=ksHVWPjsIsWR2Abp97i4Dg" >T</a>
+<td>41.68
+<td width=20%>
+<span class=chg>+0.04</span>
+<span class=chg>(0.10%)</span>
+<td>255.98B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:VZ&ei=ksHVWPjsIsWR2Abp97i4Dg" >Verizon Communications</a>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:VZ&ei=ksHVWPjsIsWR2Abp97i4Dg" >VZ</a>
+<td>49.68
+<td width=20%>
+<span class=chg>+0.04</span>
+<span class=chg>(0.08%)</span>
+<td>202.41B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:FTR&ei=ksHVWPjsIsWR2Abp97i4Dg" >Frontier Communications</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:FTR&ei=ksHVWPjsIsWR2Abp97i4Dg" >FTR</a>
+<td>2.09
+<td width=20%>
+<span class=chg>+0.15</span>
+<span class=chg>(7.73%)</span>
+<td>2.25B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:VOD&ei=ksHVWPjsIsWR2Abp97i4Dg" >Vodafone Group Plc (ADR)</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:VOD&ei=ksHVWPjsIsWR2Abp97i4Dg" >VOD</a>
+<td>26.88
+<td width=20%>
+<span class=chg>+0.10</span>
+<span class=chg>(0.37%)</span>
+<td>71.04B
+</table>
+</div>
+</div>
+</div>
+</div>
+<table id=main width="100%" cellpadding="0" cellspacing="0" border="0" class=results>
+<tr>
+<td colspan=8 style="text-align:left;">
+Companies <b>41 - 60</b> of about <b>113</b> in <b>Telecommunications Services</b>&nbsp;
+<tr class="hdg">
+<td class="hdg" style="text-align:left">
+<a href="/finance?catid=TRBC:58&amp;sort=a&amp;ei=ksHVWPjsIsWR2Abp97i4Dg" name="link_Company">
+<b>Company</b></a>
+<img alt="" width=14 height=1 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="/finance?catid=TRBC:58&amp;sort=QUOTE_LAST&amp;ei=ksHVWPjsIsWR2Abp97i4Dg" name="link_Quote"><b><nobr>Quote</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="/finance?catid=TRBC:58&amp;sort=QUOTE_CHANGE&amp;ei=ksHVWPjsIsWR2Abp97i4Dg" name="link_Change"><b><nobr>Change</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="/finance?catid=TRBC:58&amp;sort=QUOTE_PERC_CHANGE&amp;ei=ksHVWPjsIsWR2Abp97i4Dg" name="link_Change%"><b><nobr>Change%</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="/finance?catid=TRBC:58&amp;sort=MARKET_CAP&amp;ei=ksHVWPjsIsWR2Abp97i4Dg" name="link_Market Cap"><b><nobr>Market Cap</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/nDKCztIaHVI/images/sort_down.gif">
+<a href="/finance?catid=TRBC:58&amp;sort=PE_RATIO&amp;desc&amp;ei=ksHVWPjsIsWR2Abp97i4Dg" name="link_P/E (ttm)"><b><nobr>P/E (ttm)</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="/finance?catid=TRBC:58&amp;sort=AREV&amp;ei=ksHVWPjsIsWR2Abp97i4Dg" name="link_Ann. Revenue"><b><nobr>Ann. Revenue</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="/finance?catid=TRBC:58&amp;sort=ANIAC&amp;ei=ksHVWPjsIsWR2Abp97i4Dg" name="link_Ann. Net Income"><b><nobr>Ann. Net Income</b></a>
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:DCM&ei=ksHVWPjsIsWR2Abp97i4Dg" >NTT Docomo Inc (ADR)</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+24.26
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.24</span>
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> 1.00</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+95.57B
+<td align=right class="selected1"
+              style="padding:2px;text-align:right;">
+15.62
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+40,754.39
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+4,936.69
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:VZ&ei=ksHVWPjsIsWR2Abp97i4Dg" >Verizon Communications Inc.</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+49.68
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.04</span>
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> 0.08</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+202.41B
+<td align=right class="selected2"
+              style="padding:2px;text-align:right;">
+15.46
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+125,980.00
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+13,127.00
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:CHA&ei=ksHVWPjsIsWR2Abp97i4Dg" >China Telecom Corporation Limited (ADR)</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+48.53
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.19</span>
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> 0.39</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+38.81B
+<td align=right class="selected1"
+              style="padding:2px;text-align:right;">
+15.02
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+51,214.69
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+2,617.40
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:CHL&ei=ksHVWPjsIsWR2Abp97i4Dg" >China Mobile Ltd. (ADR)</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+56.00
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chr"> -0.39</span>
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chr"> -0.69</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+221.01B
+<td align=right class="selected2"
+              style="padding:2px;text-align:right;">
+14.52
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+96,787.00
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+15,718.41
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:MBT&ei=ksHVWPjsIsWR2Abp97i4Dg" >Mobil&#39;nye Telesistemy PAO (ADR)</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+11.49
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.14</span>
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> 1.23</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+10.26B
+<td align=right class="selected1"
+              style="padding:2px;text-align:right;">
+14.24
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+7,466.58
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+856.88
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:BT&ei=ksHVWPjsIsWR2Abp97i4Dg" >BT Group plc (ADR)</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+20.36
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chr"> -0.35</span>
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chr"> -1.69</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+40.59B
+<td align=right class="selected2"
+              style="padding:2px;text-align:right;">
+13.99
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+23,602.38
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+3,230.37
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:SIFY&ei=ksHVWPjsIsWR2Abp97i4Dg" >Sify Technologies Limited (ADR)</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+0.900
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chr"> -0.010</span>
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chr"> -1.10</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+157.41M
+<td align=right class="selected1"
+              style="padding:2px;text-align:right;">
+12.96
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+230.20
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+6.71
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:NTT&ei=ksHVWPjsIsWR2Abp97i4Dg" >Nippon Telegraph &amp; Telephone Corp (ADR)</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+44.70
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.35</span>
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> 0.79</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+94.32B
+<td align=right class="selected2"
+              style="padding:2px;text-align:right;">
+12.74
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+104,092.80
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+6,653.95
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:KT&ei=ksHVWPjsIsWR2Abp97i4Dg" >KT Corp (ADR)</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+17.02
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chr"> -0.07</span>
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chr"> -0.41</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+7.75B
+<td align=right class="selected1"
+              style="padding:2px;text-align:right;">
+11.72
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+20,280.18
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+711.43
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:SKM&ei=ksHVWPjsIsWR2Abp97i4Dg" >SK Telecom Co Ltd (ADR)</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+25.72
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chr"> -0.13</span>
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chr"> -0.50</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+19.06B
+<td align=right class="selected2"
+              style="padding:2px;text-align:right;">
+11.05
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+15,337.55
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+1,488.84
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:NSR&ei=ksHVWPjsIsWR2Abp97i4Dg" >Neustar Inc</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+33.15
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.05</span>
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> 0.15</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+1.83B
+<td align=right class="selected1"
+              style="padding:2px;text-align:right;">
+10.92
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+1,209.85
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+168.65
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:IRDM&ei=ksHVWPjsIsWR2Abp97i4Dg" >Iridium Communications Inc</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+8.90
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chb"> 0.00</span>
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chb"> 0.00</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+868.16M
+<td align=right class="selected2"
+              style="padding:2px;text-align:right;">
+10.34
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+433.64
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+95.60
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:KZ&ei=ksHVWPjsIsWR2Abp97i4Dg" >KongZhong Corporation (ADR)</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+7.41
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chr"> -0.02</span>
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chr"> -0.27</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+349.51M
+<td align=right class="selected1"
+              style="padding:2px;text-align:right;">
+8.67
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+179.11
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-16.23
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:CBB&ei=ksHVWPjsIsWR2Abp97i4Dg" >Cincinnati Bell Inc.</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+18.50
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chr"> -0.10</span>
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chr"> -0.54</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+783.60M
+<td align=right class="selected2"
+              style="padding:2px;text-align:right;">
+8.52
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+1,185.80
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+91.40
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:IDT&ei=ksHVWPjsIsWR2Abp97i4Dg" >IDT Corporation</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+12.52
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.14</span>
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> 1.13</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+289.19M
+<td align=right class="selected1"
+              style="padding:2px;text-align:right;">
+7.51
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+1,496.26
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+23.51
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:FRP&ei=ksHVWPjsIsWR2Abp97i4Dg" >FairPoint Communications Inc</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+16.50
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.05</span>
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> 0.30</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+458.26M
+<td align=right class="selected2"
+              style="padding:2px;text-align:right;">
+4.30
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+824.44
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+104.10
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:I&ei=ksHVWPjsIsWR2Abp97i4Dg" >Intelsat SA</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+4.45
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.01</span>
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> 0.23</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+532.44M
+<td align=right class="selected1"
+              style="padding:2px;text-align:right;">
+0.51
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+2,188.05
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+990.20
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:FTR&ei=ksHVWPjsIsWR2Abp97i4Dg" >Frontier Communications Corp</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+2.09
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.15</span>
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> 7.73</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+2.25B
+<td align=right class="selected2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+8,896.00
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-590.00
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:NTLS&ei=ksHVWPjsIsWR2Abp97i4Dg" >NTELOS Holdings Corp</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+9.26
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+206.55M
+<td align=right class="selected1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+362.64
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-2.30
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:DCEL&ei=ksHVWPjsIsWR2Abp97i4Dg" >Digicel Group Ltd</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+0.0000
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="selected2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+2,794.11
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-186.64
+</table>
+<br>
+<br>
+<center style="padding:0 0.5em 1.5em 0.5em;">
+<div id=navbar>
+<table width="1%" cellspacing=0 cellpadding=0>
+<tr valign="top" align="center" style="text-align:center;">
+<td class=nav_b align=right nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A58&amp;sort=PE_RATIO&amp;ei=YcHVWLHPCs6S2AbvrKXgDw&amp;start=20&amp;num=20"><div id=nav_np></div>Previous</a>&nbsp;
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A58&amp;sort=PE_RATIO&amp;ei=YcHVWLHPCs6S2AbvrKXgDw&amp;start=0&amp;num=20">
+<div class=nav_nr></div>1</a>
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A58&amp;sort=PE_RATIO&amp;ei=YcHVWLHPCs6S2AbvrKXgDw&amp;start=20&amp;num=20">
+<div class=nav_nr></div>2</a>
+</td>
+<td nowrap>
+<div id=nav_nc></div><span class=nav_i>3</span>
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A58&amp;sort=PE_RATIO&amp;ei=YcHVWLHPCs6S2AbvrKXgDw&amp;start=60&amp;num=20">
+<div class=nav_nr></div>4</a>
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A58&amp;sort=PE_RATIO&amp;ei=YcHVWLHPCs6S2AbvrKXgDw&amp;start=80&amp;num=20">
+<div class=nav_nr></div>5</a>
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A58&amp;sort=PE_RATIO&amp;ei=YcHVWLHPCs6S2AbvrKXgDw&amp;start=100&amp;num=20">
+<div class=nav_nr></div>6</a>
+</td>
+<td class=nav_b nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A58&amp;sort=PE_RATIO&amp;ei=YcHVWLHPCs6S2AbvrKXgDw&amp;start=60&amp;num=20"><div id=nav_nn></div>Next</a>
+</td>
+</tr>
+</table>
+</div>
+</center>
+</div></div></div></div></div><div id=gf-foot><div id=fjfe-edition-links class=fjfe-footer-links>Google Finance Beta available in: <a href="http://www.google.com.hk/finance?ei=ksHVWPjsIsWR2Abp97i4Dg" class="fjfe-edition-link">Hong Kong</a> - <a href="http://www.google.ca/finance?ei=ksHVWPjsIsWR2Abp97i4Dg" class="fjfe-edition-link">Canada</a> - <a href="http://www.google.com/finance?ei=ksHVWPjsIsWR2Abp97i4Dg" class="fjfe-edition-link">U.S.</a> - <a href="http://www.google.com.hk/finance?hl=zh-CN&ei=ksHVWPjsIsWR2Abp97i4Dg" class="fjfe-edition-link">China</a> - <a href="http://www.google.co.uk/finance?ei=ksHVWPjsIsWR2Abp97i4Dg" class="fjfe-edition-link">U.K.</a></div><p class=fjfe-footer-disclaimer>Information is provided "as is" and solely for informational purposes, not for trading purposes or advice, and may be delayed.<br>To see all exchange delays, please <a href="http://www.google.com/intl/en/googlefinance/disclaimer/?ei=ksHVWPjsIsWR2Abp97i4Dg" class="fjfe-secondary-link fjfe-no-sticky-params"> see disclaimer</a>.</p><div class=fjfe-footer-links>&copy;2017 Google - <a href="http://www.google.com?hl=en&ei=ksHVWPjsIsWR2Abp97i4Dg">Google Home</a> - <a href="http://googlefinanceblog.blogspot.com?ei=ksHVWPjsIsWR2Abp97i4Dg">Blog</a> - <a href="http://support.google.com/finance?hl=en&ei=ksHVWPjsIsWR2Abp97i4Dg">Help</a> - <a href="http://support.google.com/finance?ctx=report&hl=en&ei=ksHVWPjsIsWR2Abp97i4Dg">Report a Problem</a> - <a href="http://www.google.com/intl/en/policies/privacy/?ei=ksHVWPjsIsWR2Abp97i4Dg">Privacy Policy</a> - <a href="http://www.google.com/intl/en/policies/terms/?ei=ksHVWPjsIsWR2Abp97i4Dg">Terms of Service</a></div></div><script>var _cleardot = 'data:image\/gif;base64,R0lGODlhAQABAIAAAP\/\/\/\/\/\/\/yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d';
+    var google = google || {};
+    google.finance = google.finance || {};
+    google.finance.gce = false ;</script><script src="/finance/f/sfe-opt-1767485581.js"></script><script>
+      _regOnLoad = function(f) {
+        if (document.readyState == 'complete') {
+          f && f();
+        } else {
+          // Window.attachEvent() for IE8 and below compatability.
+          var addEventFunction = window.attachEvent ||
+              window.addEventListener || function(ignored, f) { f(); };
+          var event = window.attachEvent ? 'onload' : 'load';
+          f && addEventFunction(event, f);
+        }
+      };
+    
+      google.finance.renderRecentQuotes = function() {};
+    </script>
+<script>
+var _ticker = 'INDEXCAT:catid-TRBC:58';
+var _timeZoneOffset = '0';
+var _categoryName = 'Telecommunications Services';
+var _displayVolume = false;
+_s_Store._numToDisplay = 3;
+_ac_register(function (input, event) {
+if (input.id == 'add_comparison_symbol') {
+_comparison_charts_Store.baseTicker = "INDEXCAT:catid-TRBC:58";
+return _comparison_charts_Store;
+}
+});
+google.finance.data = null;
+function _visibleChartRangeChanged(startTime, endTime, numdays) {
+}
+var headings = new Array("tm_price","tm_mcap","tm_wmcap");
+var link_names = new Array("l_tm_price","l_tm_mcap","l_tm_wmcap");
+function show_tab(name) {
+for (var i = 0; i < headings.length; i++) {
+        var mylink = document.getElementById(link_names[i]);
+        var mydiv = document.getElementById(headings[i]);
+        if (mydiv) {
+          if (headings[i] == name) {
+            mydiv.style.display = "block";
+            if (mylink) {
+              mylink.className = "ac";
+            }
+          } else {
+            mydiv.style.display = "none";
+            if (mylink) {
+              mylink.className = "nac";
+            }
+          }
+        }
+      }
+    }
+
+    function initCategoryPage() {
+      _minZoomDays = 3;
+
+      _chartConfigObject = {};
+      _chartConfigObject.minZoomDaysNormal = _minZoomDays;
+      _chartConfigObject.volume = _displayVolume;
+      _chartConfigObject.defaultZoomDays = 3;
+      _chartConfigObject.displayName = _categoryName;
+      _chartConfigObject.hasExtendedHours = 'false';
+
+      _chartConfigObject.compareTo = 'INDEXSP:.INX';
+      _chartConfigObject.compareToDisplayName = '';
+
+      
+      _external_target = "";
+      _emitFlashChart("/finance/s/n-VxNKK74DU/chart9.swf?hl=en&gl=us",
+          _ticker,_chartConfigObject,"http:\x2F\x2Fwww.google.com:80","chart_anchor");
+      _initAutoFocus();
+    }
+  </script>
+<script>
+var _chartConfigObject;
+var _cleardot;
+var _companyName;
+var _eventid = 'ksHVWPjsIsWR2Abp97i4Dg';
+var _expid;
+var _external_target;
+var _localDomain = 'www.google.com';
+var _minZoomDays;
+var _minZoomDaysNoIntraDay;
+var _prefs;
+var _ticker;
+var _urlSuffix;
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chg",down:"chr",linktargetInternal:"",hash:""},stickyUrlArgs:"\u0026ei=ksHVWPjsIsWR2Abp97i4Dg",chart:{_5d:"EXCHANGE%3DINDEXCAT\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=120\nCOLUMNS=DATE,CLOSE,VOLUME\nDATA=\nTIMEZONE_OFFSET=-240\na1490016600,171587.964,0\n1,171650.211,0\n2,171725.834,0\n3,171768.859,0\n4,171836.498,0\n5,171760.385,0\n6,171820.208,0\n7,171766.795,0\n8,171785.149,0\n9,171763.93,0\n10,171786.755,0\n11,171798.627,0\n12,171750.636,0\n13,171811.083,0\n14,171779.033,0\n15,171707.863,0\n16,171703.788,0\n17,171666.257,0\n18,171752.184,0\n19,171741.274,0\n20,171785.046,0\n21,171781.635,0\n22,171811.994,0\n23,171787.267,0\n24,171801.6479,0\n25,171788.293,0\n26,171812.701,0\n27,171841.983,0\n28,171850.939,0\n29,171852.003,0\n30,171836.253,0\n31,171814.317,0\n32,171723.194,0\n33,171739.708,0\n34,171702.4659,0\n35,171668.365,0\n36,171647.145,0\n37,171666.083,0\n38,171718.299,0\n39,171727.855,0\n40,171806.571,0\n41,171836.001,0\n42,171818.414,0\n43,171773.17,0\n44,171757.5799,0\n45,171781.358,0\n46,171755.473,0\n47,171746.289,0\n48,171722.09,0\n49,171760.906,0\n50,171760.88,0\n51,171688.194,0\n52,171673.751,0\n53,171705.56,0\n54,171693.722,0\n55,171698.334,0\n56,171691.65,0\n57,171686.403,0\n58,171738.336,0\n59,171737.492,0\n60,171698.973,0\n61,171703.622,0\n62,171710.187,0\n63,171729.768,0\n64,171785.206,0\n65,171769.577,0\n66,171819.323,0\n67,171848.567,0\n68,171842.883,0\n69,171824.562,0\n70,171827.296,0\n71,171845.4849,0\n72,171874.145,0\n73,171849.158,0\n74,171833.951,0\n75,171781.7159,0\n76,171806.451,0\n77,171809.897,0\n78,171792.996,0\n79,171803.946,0\n80,171772.47,0\n81,171800.2619,0\n82,171800.059,0\n83,171698.021,0\n84,171682.8679,0\n85,171659.756,0\n86,171648.7159,0\n87,171668.414,0\n88,171698.943,0\n89,171669.309,0\n90,171637.305,0\n91,171647.0719,0\n92,171633.774,0\n93,171610.4359,0\n94,171607.719,0\n95,171611.266,0\n96,171621.819,0\n97,171637.568,0\n98,171671.956,0\n99,171614.63,0\n100,171649.608,0\n101,171662.0039,0\n102,171657.793,0\n103,171654.478,0\n104,171659.927,0\n105,171639.587,0\n106,171612.918,0\n107,171613.378,0\n108,171593.338,0\n109,171607.819,0\n110,171587.405,0\n111,171603.501,0\n112,171614.691,0\n113,171621.589,0\n114,171614.163,0\n115,171606.225,0\n116,171598.232,0\n117,171610.78,0\n118,171610.836,0\n119,171613.663,0\n120,171621.8789,0\n121,171631.029,0\n122,171623.476,0\n123,171632.444,0\n124,171625.778,0\n125,171479.356,0\n126,171490.581,0\n127,171423.3789,0\n128,171429.8299,0\n129,171432.336,0\n130,171439.791,0\n131,171452.222,0\n132,171445.101,0\n133,171456.206,0\n134,171457.3409,0\n135,171466.27,0\n136,171455.0799,0\n137,171460.894,0\n138,171472.778,0\n139,171484.027,0\n140,171517.654,0\n141,171499.184,0\n142,171532.937,0\n143,171480.832,0\n144,171475.488,0\n145,171474.154,0\n146,171466.121,0\n147,171447.232,0\n148,171453.59,0\n149,171456.403,0\n150,171469.221,0\n151,171508.89,0\n152,171488.756,0\n153,171458.64,0\n154,171356.492,0\n155,171359.861,0\n156,171388.965,0\n157,171413.433,0\n158,171380.6669,0\n159,171357.548,0\n160,171352.646,0\n161,171347.625,0\n162,171360.3789,0\n163,171376.757,0\n164,171431.412,0\n165,171430.996,0\n166,171421.438,0\n167,171448.586,0\n168,171475.183,0\n169,171493.098,0\n170,171489.886,0\n171,171492.994,0\n172,171517.925,0\n173,171557.498,0\n174,171578.133,0\n175,171611.885,0\n176,171618.225,0\n177,171604.016,0\n178,171619.713,0\n179,171640.241,0\n180,171722.892,0\n181,171699.794,0\n182,171723.177,0\n183,171731.763,0\n184,171711.862,0\n185,171695.469,0\n186,171666.3979,0\n187,171652.5039,0\n188,171615.0039,0\n189,171632.832,0\n190,171632.241,0\n191,171591.017,0\n192,171587.271,0\n193,171560.843,0\n194,171573.47,0\n195,171411.793,0\n720,171814.354,0\n721,171842.817,0\n722,171989.747,0\n723,172061.693,0\n724,171990.0119,0\n725,172043.662,0\n726,172080.115,0\n727,172056.332,0\n728,172082.7429,0\n729,172072.904,0\n730,172038.264,0\n731,172043.218,0\n732,172004.31,0\n733,171964.415,0\n734,171963.626,0\n735,171966.031,0\n736,171908.53,0\n737,171914.664,0\n738,171873.371,0\n739,171924.574,0\n740,171900.465,0\n741,171827.998,0\n742,171733.544,0\n743,171669.383,0\n744,171603.8869,0\n745,171614.457,0\n746,171577.435,0\n747,171515.988,0\n748,171489.761,0\n749,171456.247,0\n750,171429.416,0\n751,171473.544,0\n752,171410.823,0\n753,171329.335,0\n754,171305.722,0\n755,171300.562,0\n756,171360.261,0\n757,171357.454,0\n758,171328.459,0\n759,171386.991,0\n760,171366.01,0\n761,171423.537,0\n762,171282.3,0\n763,171236.392,0\n764,171196.645,0\n765,171203.165,0\n766,171202.415,0\n767,171039.306,0\n768,171039.233,0\n769,170981.133,0\n770,171031.641,0\n771,171053.154,0\n772,170905.56,0\n773,170847.746,0\n774,170820.938,0\n775,170845.4849,0\n776,170913.931,0\n777,170956.01,0\n778,170903.752,0\n779,170863.16,0\n780,170755.689,0\n781,170694.962,0\n782,170632.339,0\n783,170482.723,0\n784,170659.8299,0\n785,170637.617,0\n786,170536.777,0\n787,170556.821,0\n788,170590.164,0\n789,170580.65,0\n790,170557.967,0\n791,170539.401,0\n792,170566.328,0\n793,170525.951,0\n794,170641.89,0\n795,170610.653,0\n796,170594.9549,0\n797,170659.859,0\n798,170743.66,0\n799,170730.97,0\n800,170694.553,0\n801,170742.892,0\n802,170675.805,0\n803,170674.53,0\n804,170648.4359,0\n805,170653.189,0\n806,170636.295,0\n807,170584.689,0\n808,170551.5,0\n809,170606.195,0\n810,170622.831,0\n811,170625.806,0\n812,170600.867,0\n813,170599.176,0\n814,170585.308,0\n815,170592.257,0\n816,170571.486,0\n817,170571.141,0\n818,170520.2349,0\n819,170475.769,0\n820,170473.337,0\n821,170482.685,0\n822,170518.0909,0\n823,170529.734,0\n824,170546.871,0\n825,170549.199,0\n826,170555.988,0\n827,170544.302,0\n828,170501.738,0\n829,170495.2539,0\n830,170476.963,0\n831,170458.473,0\n832,170391.347,0\n833,170467.738,0\n834,170475.819,0\n835,170394.121,0\n836,170385.878,0\n837,170374.755,0\n838,170365.062,0\n839,170385.457,0\n840,170436.105,0\n841,170432.163,0\n842,170420.533,0\n843,170376.777,0\n844,170391.173,0\n845,170404.207,0\n846,170382.093,0\n847,170387.156,0\n848,170369.1479,0\n849,170305.011,0\n850,170315.295,0\n851,170241.396,0\n852,170262.2919,0\n853,170257.691,0\n854,170237.546,0\n855,170264.441,0\n856,170258.939,0\n857,170199.462,0\n858,170282.181,0\n859,170377.334,0\n860,170398.3409,0\n861,170366.609,0\n862,170404.908,0\n863,170457.237,0\n864,170514.451,0\n865,170536.532,0\n866,170557.003,0\n867,170549.56,0\n868,170575.774,0\n869,170547.019,0\n870,170625.362,0\n871,170621.481,0\n872,170734.557,0\n873,170625.2159,0\n874,170658.777,0\n875,170637.956,0\n876,170577.4469,0\n877,170499.204,0\n878,170484.905,0\n879,170487.363,0\n880,170498.748,0\n881,170495.112,0\n882,170601.54,0\n883,170570.852,0\n884,170590.518,0\n885,170568.157,0\n886,170571.508,0\n887,170556.303,0\n888,170626.3979,0\n889,170612.1969,0\n890,170562.818,0\n891,170589.494,0\n892,170590.327,0\n893,170573.2919,0\n894,170605.677,0\n895,170596.756,0\n896,170550.482,0\n897,170593.43,0\n898,170616.854,0\n899,170626.194,0\n900,170521.873,0\n901,170539.544,0\n902,170487.407,0\n903,170496.3679,0\n904,170386.241,0\n905,170310.984,0\n906,170304.597,0\n907,170214.357,0\n908,170204.155,0\n909,170143.801,0\n910,170074.625,0\n911,170061,0\n912,170125.632,0\n913,170100.521,0\n914,170128.413,0\n915,168981.03,0\na1490189400,169081.393,0\n1,169049.256,0\n2,169051.713,0\n3,169026.434,0\n4,168849.634,0\n5,168817.925,0\n6,168852.2919,0\n7,168910.468,0\n8,169035.808,0\n9,168971.514,0\n10,169031.096,0\n11,168894.587,0\n12,168907.3679,0\n13,168817.666,0\n14,168762.819,0\n15,168780.631,0\n16,168788.323,0\n17,168731.008,0\n18,168744.708,0\n19,168714.751,0\n20,168659.911,0\n21,168570.157,0\n22,168549.909,0\n23,168527.036,0\n24,168476.642,0\n25,168497.25,0\n26,168546.788,0\n27,168536.6969,0\n28,168514.373,0\n29,168496.326,0\n30,168465.923,0\n31,168482.497,0\n32,168629.385,0\n33,168730.4469,0\n34,168822.222,0\n35,168822.43,0\n36,168809.024,0\n37,168770.757,0\n38,168766.997,0\n39,168747.17,0\n40,168760.034,0\n41,168764.014,0\n42,168759.929,0\n43,168750.843,0\n44,168838.45,0\n45,168922.5039,0\n46,168921.092,0\n47,168937.5909,0\n48,168928.738,0\n49,168932.154,0\n50,168993.5799,0\n51,169012.306,0\n52,169111.692,0\n53,169297.98,0\n54,169322.558,0\n55,169324.564,0\n56,169408.4549,0\n57,169463.657,0\n58,169375.684,0\n59,169375.126,0\n60,169345.319,0\n61,169362.915,0\n62,169326.306,0\n63,169316.663,0\n64,169301.39,0\n65,169334.123,0\n66,169369.737,0\n67,169443.251,0\n68,169376.375,0\n69,169348.184,0\n70,169350.157,0\n71,169287.507,0\n72,169270.751,0\n73,169259.082,0\n74,169277.217,0\n75,169251.34,0\n76,169280.528,0\n77,169304.6289,0\n78,169315.419,0\n79,169262.338,0\n80,169289.407,0\n81,169259.819,0\n82,169235.265,0\n83,169213.255,0\n84,169258.13,0\n85,169269.329,0\n86,169252.69,0\n87,169197.566,0\n88,169147.489,0\n89,169130.053,0\n90,169139.172,0\n91,169186.612,0\n92,169172.862,0\n93,169161.407,0\n94,169057.845,0\n95,169019.926,0\n96,168986.689,0\n97,168959.117,0\n98,168918.404,0\n99,168956.342,0\n100,169002.63,0\n101,168948.654,0\n102,168960.91,0\n103,168951.232,0\n104,168966.7159,0\n105,168928.881,0\n106,168799.278,0\n107,168811.655,0\n108,168801.604,0\n109,168795.765,0\n110,168757.219,0\n111,168711.995,0\n112,168714.308,0\n113,168762.799,0\n114,168824.864,0\n115,168885.845,0\n116,168884.624,0\n117,168879.3489,0\n118,168883.552,0\n119,168891.749,0\n120,168892.4739,0\n121,168925.191,0\n122,168959.013,0\n123,168959.842,0\n124,168985.2349,0\n125,168943.326,0\n126,168843.923,0\n127,168836.5609,0\n128,168785.509,0\n129,168764.558,0\n130,168777.885,0\n131,168773.528,0\n132,168724.604,0\n133,168713.945,0\n134,168693.819,0\n135,168683.036,0\n136,168719.236,0\n137,168750.123,0\n138,168773.729,0\n139,168769.615,0\n140,168749.896,0\n141,168767.049,0\n142,168759.376,0\n143,168722.643,0\n144,168736.442,0\n145,168697.316,0\n146,168744.252,0\n147,168799.172,0\n148,168757.674,0\n149,168738.4549,0\n150,168743.201,0\n151,168791.2349,0\n152,168793.911,0\n153,168837.177,0\n154,168864.2159,0\n155,168884.2159,0\n156,168854.302,0\n157,168856.788,0\n158,168797.578,0\n159,168862.8869,0\n160,168926.06,0\n161,168935.5909,0\n162,168893.025,0\n163,168889.7919,0\n164,168891.958,0\n165,168897.252,0\n166,168908.348,0\n167,168917.878,0\n168,168896.9549,0\n169,168885.288,0\n170,168898.873,0\n171,168942.2349,0\n172,168951.532,0\n173,168926.869,0\n174,169012.251,0\n175,169094.786,0\n176,169102.9659,0\n177,169076.891,0\n178,169067.182,0\n179,169087.013,0\n180,169058.875,0\n181,169029.6969,0\n182,168998.291,0\n183,168989.57,0\n184,168959.772,0\n185,169062.288,0\n186,168974.074,0\n187,169031.089,0\n188,169019.921,0\n189,169033.354,0\n190,169103.385,0\n191,169084.748,0\n192,169100.367,0\n193,169124.996,0\n194,169081.747,0\n195,169658.424,0\n720,168715.465,0\n721,168927.086,0\n722,168796.371,0\n723,168967.016,0\n724,168910.423,0\n725,168680.047,0\n726,168717.698,0\n727,168719.688,0\n728,168605.9849,0\n729,168659.116,0\n730,168696.622,0\n731,168757.986,0\n732,168771.377,0\n733,168739.551,0\n734,168716.968,0\n735,168791.864,0\n736,168898.871,0\n737,168950.335,0\n738,168906.668,0\n739,168926.621,0\n740,168933.714,0\n741,168936.518,0\n742,169001.108,0\n743,168933.177,0\n744,168897.644,0\n745,168886.701,0\n746,168882.549,0\n747,168848.514,0\n748,168832.737,0\n749,168907.439,0\n750,168894.877,0\n751,168938.771,0\n752,168957.894,0\n753,169007.344,0\n754,169078.2049,0\n755,169087.9659,0\n756,169112.478,0\n757,169093.778,0\n758,169096.281,0\n759,169097.342,0\n760,169052.343,0\n761,169105.28,0\n762,169202.8219,0\n763,169209.158,0\n764,169250.384,0\n765,169287.399,0\n766,169365.394,0\n767,169260.654,0\n768,169297.071,0\n769,169406.763,0\n770,169426.132,0\n771,169465.7729,0\n772,169494.693,0\n773,169504.961,0\n774,169435.719,0\n775,169344.279,0\n776,169317.286,0\n777,169326.119,0\n778,169346.066,0\n779,169360.14,0\n780,169362.968,0\n781,169321.9469,0\n782,169231.796,0\n783,169313.578,0\n784,169365.236,0\n785,169352.4739,0\n786,169327.365,0\n787,169396.029,0\n788,169382.208,0\n789,169370.114,0\n790,169398.589,0\n791,169355.14,0\n792,169387.468,0\n793,169424.821,0\n794,169415.309,0\n795,169471.038,0\n796,169416.454,0\n797,169470.607,0\n798,169451.44,0\n799,169394.91,0\n800,169394.276,0\n801,169406.598,0\n802,169391.477,0\n803,169406.857,0\n804,169413.803,0\n805,169483.831,0\n806,169491.333,0\n807,169489.489,0\n808,169511.722,0\n809,169497.166,0\n810,169459.9,0\n811,169415.922,0\n812,169464.732,0\n813,169486.063,0\n814,169458.389,0\n815,169522.895,0\n816,169520.759,0\n817,169538.569,0\n818,169541.295,0\n819,169516.128,0\n820,169534.077,0\n821,169524.677,0\n822,169574.603,0\n823,169598.74,0\n824,169619.189,0\n825,169674.554,0\n826,169580.109,0\n827,169541.125,0\n828,169487.921,0\n829,169365.449,0\n830,169371.835,0\n831,169326.437,0\n832,169392.872,0\n833,169368.567,0\n834,169355.153,0\n835,169392.01,0\n836,169380.511,0\n837,169381.173,0\n838,169372.729,0\n839,169225.78,0\n840,169234.739,0\n841,169287.092,0\n842,169315.465,0\n843,169273.249,0\n844,169263.557,0\n845,169283.164,0\n846,169384.456,0\n847,169386.643,0\n848,169421.024,0\n849,169450.2429,0\n850,169430.871,0\n851,169485.738,0\n852,169486.491,0\n853,169478.964,0\n854,169481.643,0\n855,169433.891,0\n857,169411.831,0\n858,169429.0229,0\n859,169409,0\n860,169485.973,0\n862,169453.729,0\n863,169451.154,0\n864,169434.401,0\n865,169448.803,0\n866,169456,0\n867,169443.863,0\n868,169425.567,0\n869,169436.123,0\n870,169394.721,0\n871,169447.289,0\n872,169437.559,0\n873,169373.859,0\n874,169419.0229,0\n875,169498.956,0\n876,169476.0719,0\n877,169510.18,0\n878,169537.63,0\n879,169495.494,0\n880,169522.127,0\n881,169513.344,0\n882,169493.445,0\n883,169500.829,0\n884,169503.5039,0\n885,169422.991,0\n886,169350.6479,0\n887,169353.522,0\n888,169382.953,0\n889,169385.384,0\n890,169351.389,0\n891,169347.13,0\n892,169232.979,0\n893,169242.791,0\n894,169179.249,0\n895,169202.899,0\n896,169246.745,0\n897,169248.172,0\n898,169273.9739,0\n899,169131.02,0\n900,169102.545,0\n901,168982.289,0\n902,169008.505,0\n903,169041.564,0\n904,169049.252,0\n905,169067.424,0\n906,169077.574,0\n907,169014.182,0\n908,169045.176,0\n909,169003.408,0\n910,169058.475,0\n911,169033.184,0\n912,169040.352,0\n913,169083.927,0\n914,169134.326,0\n915,168510.529,0\na1490362200,168436.634,0\n1,168463.863,0\n2,168535.404,0\n3,168528.431,0\n4,168493.176,0\n5,168502.526,0\n6,168459.133,0\n7,168527.981,0\n8,168498.0229,0\n9,168660.3109,0\n10,168697.688,0\n11,168683.524,0\n12,168652.164,0\n13,168616.88,0\n14,168559.703,0\n15,168514.009,0\n16,168544.013,0\n17,168533.3409,0\n18,168618.367,0\n19,168640.469,0\n20,168676.366,0\n21,168695.746,0\n22,168678.668,0\n23,168739.334,0\n24,168744.615,0\n25,168688.008,0\n26,168687.652,0\n27,168678.142,0\n28,168658.8489,0\n29,168687.144,0\n30,168732.111,0\n31,168837.125,0\n32,168789,0\n33,168808.425,0\n34,168784.171,0\n35,168822.973,0\n36,168852.285,0\n37,168847.141,0\n38,168867.435,0\n39,168893.695,0\n40,168917.433,0\n41,168973.343,0\n42,168971.899,0\n43,168984.336,0\n44,168962.575,0\n45,168993.3599,0\n46,169062.886,0\n47,169032.712,0\n48,169067.712,0\n49,169049.071,0\n50,169103.3599,0\n51,169103.463,0\n52,169127.421,0\n53,169126.8489,0\n54,169118.815,0\n55,169088.227,0\n56,169040.814,0\n57,169045.048,0\n58,168974.567,0\n59,168956.884,0\n60,168969.3599,0\n61,168972.433,0\n62,168996.132,0\n63,169000.063,0\n64,168989.103,0\n65,168968.394,0\n66,168997.017,0\n67,168951.31,0\n68,168968.787,0\n69,168998.3979,0\n70,169009.581,0\n71,169025.65,0\n72,169074.672,0\n73,169048.808,0\n74,169112.854,0\n75,169142.076,0\n76,169164.838,0\n77,169158.434,0\n78,169145.964,0\n79,169146.798,0\n80,168918.407,0\n81,168946.581,0\n82,168920.308,0\n83,168919.526,0\n84,168899.153,0\n85,168854.385,0\n86,168887.334,0\n87,168880.5229,0\n88,168964.711,0\n89,169044.414,0\n90,169031.367,0\n91,168984.209,0\n92,168989.027,0\n93,169018.496,0\n94,169054.6859,0\n95,169025.562,0\n96,169036.914,0\n97,169034.757,0\n98,169010.337,0\n99,169001.163,0\n100,168984.189,0\n101,168978.058,0\n102,168961.899,0\n103,168883.5719,0\n104,168909.649,0\n105,168934.757,0\n106,168925.497,0\n107,168894.193,0\n108,168914.2539,0\n109,168838.6969,0\n110,168838.619,0\n111,168813.177,0\n112,168879.661,0\n113,168881.295,0\n114,168888.933,0\n115,168887.524,0\n116,168898.443,0\n117,168967.871,0\n118,168973.1099,0\n119,168982.396,0\n120,168975.371,0\n121,168976.494,0\n122,168913.178,0\n124,168898.821,0\n125,168895.326,0\n127,168949.5909,0\n128,168913.219,0\n130,168920.752,0\n131,168869.373,0\n132,168844.171,0\n133,168814.873,0\n134,168777.403,0\n135,168793.736,0\n136,168845.196,0\n137,168821.549,0\n138,168828.372,0\n139,168837.327,0\n140,168814.332,0\n141,168827.176,0\n142,168856.1289,0\n143,168801.979,0\n144,168826.46,0\n145,168873.651,0\n146,168870.962,0\n147,168874.837,0\n148,168864.131,0\n149,168850.152,0\n150,168814.221,0\n151,168853.316,0\n152,168892.569,0\n153,168843.595,0\n154,168814.885,0\n155,168768.181,0\n156,168761.78,0\n157,168720.225,0\n158,168766.288,0\n159,168740.8679,0\n160,168729.809,0\n161,168721.486,0\n162,168685.491,0\n163,168652.756,0\n164,168673.056,0\n165,168674.115,0\n166,168607.406,0\n167,168663.122,0\n168,168625.408,0\n169,168615.381,0\n170,168643.908,0\n171,168636.6969,0\n172,168625.011,0\n173,168574.528,0\n174,168614.172,0\n175,168597.676,0\n176,168610.252,0\n177,168679.669,0\n178,168675.8869,0\n179,168759.403,0\n180,168805.218,0\n181,168782.226,0\n182,168765.308,0\n183,168845.199,0\n184,169082.853,0\n185,169121.25,0\n186,169152.904,0\n187,169158.267,0\n188,168963.086,0\n189,168835.867,0\n190,168849.198,0\n191,168940.229,0\n192,168968.278,0\n193,168939.832,0\n194,168847.282,0\n195,168817,0\n",_5Y:"EXCHANGE%3DINDEXCAT\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=604800\nCOLUMNS=DATE,CLOSE,VOLUME,CDAYS\nDATA=\nTIMEZONE_OFFSET=-240\na1370030400,155573.563,0,5\n1,157158.596,0,5\n2,158967.373,0,5\n3,229782.757,0,5\n4,239964.833,0,5\n5,237337.194,0,5\n6,246158.672,0,5\n7,243772.25,0,5\n8,245166.795,0,5\n9,248339.686,0,5\n10,245289.259,0,5\n11,238448.611,0,5\n12,228693.453,0,5\n13,224580.251,0,5\n14,224189.399,0,5\n15,159112.692,0,5\n16,160214.959,0,5\na1380225600,160689.369,0,5\na1380916800,154156.244,0,5\n1,155572.311,0,5\n2,165954.628,0,5\n3,164196.556,0,5\n4,164734.471,0,5\nTIMEZONE_OFFSET=-300\na1383944400,161830.529,0,5\n1,163862.728,0,5\n2,163312.993,0,5\na1385586000,163802.693,0,5\na1386363600,164357.47,0,5\n1,160785.704,0,5\n2,163140.723,0,5\n3,166321.423,0,5\n4,163617.816,0,5\n5,163953.236,0,5\n6,164214.844,0,5\n7,159960.021,0,5\n8,159177.831,0,5\na1391720400,157426.824,0,5\na1392411600,162010.786,0,5\na1392930000,162216.736,0,5\na1393621200,159373.476,0,5\n1,158758.177,0,5\nTIMEZONE_OFFSET=-240\na1394827200,154694.407,0,5\n1,155064.418,0,5\n2,158198.369,0,5\n3,158034.373,0,5\n4,156461.994,0,5\na1397764800,158338.611,0,5\na1398456000,156259.849,0,5\n1,162072.776,0,5\n2,162022.991,0,5\n3,162782.494,0,5\n4,161992.948,0,5\n5,162658.311,0,5\n6,163182.58,0,5\na1402516800,162360.283,0,5\na1403294400,162619.174,0,5\n1,163503.763,0,5\na1404331200,164627.771,0,5\na1405108800,164899.929,0,5\n1,167827.409,0,5\n2,168756.375,0,5\n3,167091.014,0,5\n4,164698.381,0,5\n5,168325.354,0,5\n6,169642.183,0,5\n7,172556.488,0,5\n8,175324.794,0,5\n9,173219.816,0,5\n10,173366.057,0,5\n11,169464.584,0,5\n12,167136.39,0,5\n13,163343.059,0,5\n14,160814.228,0,5\n15,163253.044,0,5\n16,169182.758,0,5\nTIMEZONE_OFFSET=-300\na1415394000,167753.7,0,5\n1,169625.767,0,5\n2,169163.436,0,5\na1417035600,170119.309,0,5\na1417813200,167336.807,0,5\n1,159709.804,0,5\n2,161662.425,0,5\n3,163160.775,0,5\n4,161659.508,0,5\n5,163364.417,0,5\n6,166489.537,0,5\n7,170970.379,0,5\n8,167166.202,0,5\n9,169974.192,0,5\n10,174814.691,0,5\n11,174365.525,0,5\n12,174583.244,0,5\n13,170631.221,0,5\nTIMEZONE_OFFSET=-240\na1426276800,167289.559,0,5\n1,168961.518,0,5\n2,167030.293,0,5\na1428004800,170199.404,0,5\na1428696000,173765.684,0,5\n1,173028.196,0,5\n2,179521.284,0,5\n3,176599.632,0,5\n4,175267.147,0,5\n5,176089.448,0,5\n6,174896.339,0,5\n7,172397.63,0,5\n8,170535.714,0,5\n9,171305.557,0,5\n10,171040.496,0,5\n11,174129.105,0,5\na1435867200,171917.089,0,5\na1436558400,169167.351,0,5\n1,171885.205,0,5\n2,169258.868,0,5\n3,171363.099,0,5\n4,169904.152,0,5\n5,16558.37,0,5\n6,169717.08,0,5\n7,166016.778,0,5\n8,165153.815,0,5\n9,162860.574,0,5\n10,161244.873,0,5\n11,159159.9,0,5\n12,157906.302,0,5\n13,162324.076,0,5\n14,163431.194,0,5\n15,166920.765,0,5\n16,166817.159,0,5\nTIMEZONE_OFFSET=-300\na1446843600,165693.523,0,5\n1,161505.911,0,5\n2,164931.199,0,5\n3,162889.03,0,5\n4,161061.336,0,5\n5,157465.042,0,5\n6,157672.727,0,5\na1450904400,159088.971,0,5\na1451595600,159239.168,0,5\na1452286800,153450.124,0,5\n1,15976.533,0,5\n2,148274.84,0,5\n3,160947.319,0,5\n4,163327.964,0,5\n5,158404.628,0,5\n6,161410.801,0,5\n7,162913.493,0,5\n8,167372.804,0,5\n9,168219.426,0,5\nTIMEZONE_OFFSET=-240\na1458331200,168613.098,0,5\na1458849600,170228.866,0,5\na1459540800,170767.348,0,5\n1,171737.007,0,5\n2,172981.731,0,5\n3,172184.986,0,5\n4,169405.595,0,5\n5,168960.101,0,5\n6,169350.131,0,5\n7,167765.785,0,5\n8,169450.62,0,5\n9,171177.738,0,5\n10,169046.595,0,5\n11,168174.712,0,5\n12,162495.435,0,5\n13,177835.791,0,5\n14,177080.667,0,5\n15,178123.302,0,5\n16,181451.214,0,5\n17,181203.814,0,5\n18,178922.028,0,5\n19,180062.813,0,5\n20,175687.28,0,5\n21,174168.812,0,5\n22,178526.867,0,5\n23,170371.312,0,5\n24,170483.83,0,5\n25,175405.811,0,5\n26,173150.204,0,5\n27,168898.826,0,5\n28,170867.772,0,5\n29,167080.339,0,5\n30,166026.994,0,5\n31,161008.651,0,5\nTIMEZONE_OFFSET=-300\na1478898000,157681.849,0,5\n1,159975.961,0,5\na1479934800,162440.864,0,5\na1480712400,162581.399,0,5\n1,166140.144,0,5\n2,166292.934,0,5\n3,168289.7,0,5\n4,167233.841,0,5\n5,168409.21,0,5\n6,171361.271,0,5\n7,169996.48,0,5\n8,168801.331,0,5\n9,167088.264,0,5\n10,168520.44,0,5\n11,166817.397,0,5\n12,168444.389,0,5\n13,166648.963,0,5\n14,166313.344,0,5\nTIMEZONE_OFFSET=-240\na1489780800,170810.739,0,5\n"}};
+google.finance.data.numberFormat = [{'threshold':1000000, 'symbol':'M'}, {'threshold':1000000000,'symbol':'B'}, {'threshold':1000000000000,'symbol':'T'}] ;
+_setStickyUrlParams("ei=ksHVWPjsIsWR2Abp97i4Dg");
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(initCategoryPage);
+</script></div></div><script>var googlefinance = {i: ["f.b.id","",null,0,"",0,null,["f.b.cf","9R147Dhnn8c.en_US.",0],[],1,[],"ksHVWPjsIsWR2Abp97i4Dg","www.google.com","9vh2xN6Dwi3JzmsWAQdDwgpDyYA:1490403730696",1]}; GF_domReady = 1;</script></body></html>

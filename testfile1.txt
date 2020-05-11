@@ -1,0 +1,1009 @@
+<!DOCTYPE html><html><head><script>(function(){(function(){function e(a){this.t={};this.tick=function(a,c,b){var d=void 0!=b?b:(new Date).getTime();this.t[a]=[d,c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(h){}};this.tick("start",null,a)}var a,d;window.performance&&(d=(a=window.performance.timing)&&a.responseStart);var f=0<d?new e(d):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_","_wtsrt",
+d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})();}).call(this);
+</script><title>Technology - Google Finance</title><meta name="Description" content="Get real-time stock quotes &amp; charts, financial news, currency conversions, or track your portfolio with Google Finance."><meta http-equiv="X-UA-Compatible" content="IE=10"><link rel="stylesheet" type="text/css" href="/finance/f/finance_us-1489929081.css"><link rel="stylesheet" type="text/css" href="/_/scs/finance-static/_/ss/k=finance.a.x7heix82rby5.L.X.O/d=0/rs=AGHGApGGyMTYIG0S-XdTFFcL0gvZpAxOZg"><link rel="icon" type="image/vnd.microsoft.icon" href="/finance/favicon.ico"><style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important;}#gbar{padding-left:8px;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}
+</style><script></script><script async="" defer="" src="//www.google.com/insights/consumersurveys/async_survey?site=xusttduenzseze54mcajwbd6sq"></script><script>
+      function _rpt() {}
+      function _tck() {}
+    </script><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-40765809-1', {
+      'allowLinker': true,
+      'cookiePath': '/finance'
+    });
+    ga('send', 'pageview');
+    </script></head><body><div class=fjfe-bodywrapper><div id=fjfe-real-body class=g-doc><input type="text" name="hist_state" id="hist_state" style="display:none;"><iframe id="hist_frame" name="hist_frame" class=invfr tabindex="-1"></iframe><iframe src="/_/scs/finance-static/_/js/k=finance.a.en_US.9R147Dhnn8c.O/m=b/rt=h/d=0/rs=AGHGApGszSEHbMoXAq0_ObWO6zwfX-urUw" class=invfr tabindex="-1"></iframe><div id=gbar><nobr><a class=gb1 href="https://www.google.com/webhp?tab=ew">Search</a> <a class=gb1 href="http://www.google.com/imghp?hl=en&tab=ei">Images</a> <a class=gb1 href="http://maps.google.com/maps?hl=en&tab=el">Maps</a> <a class=gb1 href="https://play.google.com/?hl=en&tab=e8">Play</a> <a class=gb1 href="http://www.youtube.com/?tab=e1">YouTube</a> <a class=gb1 href="http://news.google.com/nwshp?hl=en&tab=en">News</a> <a class=gb1 href="https://mail.google.com/mail/?tab=em">Gmail</a> <a class=gb1 href="https://drive.google.com/?tab=eo">Drive</a> <a class=gb1 style="text-decoration:none" href="https://www.google.com/intl/en/options/"><u>More</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a  href="http://www.google.com/support/finance?hl=en" class=gb4>Help</a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?service=finance&passive=1209600&continue=http://www.google.com/finance?catid%3DTRBC:57%26amp;sort%3DPE_RATIO%26amp;ei%3Ds03UWOm2GorNjAHb-I-YBA%26amp;start%3D20%26amp;num%3D20&followup=http://www.google.com/finance?catid%3DTRBC:57%26amp;sort%3DPE_RATIO%26amp;ei%3Ds03UWOm2GorNjAHb-I-YBA%26amp;start%3D20%26amp;num%3D20" class=gb4>Sign in</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div><div id=fjfe-click-wrapper><script>
+(function() {
+  var l = window.location;
+  var q = l.search ? l.search.substr(1) : '';
+  var h = l.hash ? l.hash.substr(1) : '';
+  var p = '/finance';
+  var ss = 'stockscreener';
+  var conn = window.history && window.history.pushState ? '/' : '#';
+  if (l.pathname == p + '/' + ss) {
+    if (h) l.href = p + conn + ss + '?' + q + '&' + h;
+  } else if (l.pathname != p && h) {
+    l.href = p + l.hash;
+  }
+  if (h) {
+document.getElementById('fjfe-click-wrapper').style.display = 'none';
+  }
+})();
+</script><div id=gf-head class="g-section g-tpl-75-25 g-split"><div class="g-unit g-first"><div class=fjfe-logo><a href="/finance/?ei=QTDVWLGWHdPTjAHDn6_wDQ"><img src="/finance/f/logo_material-4224265490.png" alt="Google Finance"></a></div><div id=gf-search class=fjfe-search><form method="get" action="/finance" autocomplete="off"><input class=fjfe-searchbox-input name=q type=text tabindex=1 value=""></input><span class=fjfe-searchbox-button-wrapper><span class=fjfe-searchbox-button-wrapper2><input class=fjfe-searchbox-button type=submit tabindex=2 value="Get quotes"></input></span></span><input type=hidden name="ei" value="QTDVWLGWHdPTjAHDn6_wDQ"></input></form></div></div><div class="g-unit fjfe-promo"><div id="ad2-target" class="id-ad2-target"></div></div></div><div class=elastic><div id=app class="g-section g-tpl-left-11p4em"><div class="g-unit g-first"><div id=gf-nav><div class=fjfe-nav-nav><ul class=fjfe-nav id=navmenu><li class="fjfe-nav-expanded fjfe-nav-selected">Sector<li class=fjfe-nav-sub><div>Summary</div><li class=fjfe-nav-sub><a href="/finance/category_news?catid=TRBC:57&amp;ei=QTDVWLGWHdPTjAHDn6_wDQ">News</a><li class=fjfe-nav-item><a href="/finance?ei=QTDVWLGWHdPTjAHDn6_wDQ"><div>Markets</div></a><li class=fjfe-nav-item><a href="/finance/market_news?ei=QTDVWLGWHdPTjAHDn6_wDQ"><div>News</div></a><li class=fjfe-nav-item><a href="/finance/portfolio?action=view&amp;ei=QTDVWLGWHdPTjAHDn6_wDQ"><div>Portfolios</div></a><li class=fjfe-nav-item><a href="/finance/stockscreener?ei=QTDVWLGWHdPTjAHDn6_wDQ"><div>Stock screener</div></a><li class=fjfe-nav-item><a href="/finance/domestic_trends?ei=QTDVWLGWHdPTjAHDn6_wDQ"><div>Google Domestic Trends</div></a></ul></div><div class="fjfe-recentquotes fjfe-recentquotes-noquote"><h4>Recent Quotes <span class="fjfe-recentquotes-duration">(<a href="//www.google.com/history/optout?hl=en">30 days</a>)</span></h4><div class=fjfe-recentquotes-noquote-notification>You have no recent quotes</div><div class=fjfe-recentquotes-quotes><div class="fjfe-toggle fjfe-toggle-button"><span class=fjfe-chg-toggle>chg</span> | <span class=fjfe-perc-toggle>%</span></div><div class=fjfe-table-div><table class=fjfe-recentquotes-table id=rq width=100%></table></div></div></div></div></div><div class=g-unit id=gf-viewc><div class=fjfe-content>
+<style>
+tr.hdg {background-color:#E5ECF9; padding: 2px 0 2px 2px;}
+tr.hdgr td {background-color:#E5ECF9; padding: 2px 0 2px 2px;}
+.highlightWhite td { background-color:#FFFFFF; }
+.highlightGrey td { background-color:#EFEFEF; }
+.highlightGreyRelated td { background-color:#EFEFEF; }
+.highlight1 { background-color:#FFFFFF; }
+.highlight2 { background-color:#EFEFEF; }
+.selected1 { background-color:#FEFED7; }
+.selected2 { background-color:#F6F6D1; }
+.bld {font-weight:bold;}
+.chg {color:#008000;}
+.chr {color:#AA0033;}
+.chb {color:#000000;}
+.chrSectorDark { background-color:#B73B3B }
+.chrSectorLight { background-color:#FFCEBE }
+.chgSectorDark { background-color:#2CC42C }
+.chgSectorLight { background-color:#ACF4AC }
+.ndiv {
+padding: 1px 0 1px 0;
+white-space: normal;
+}
+.related {
+margin-top:-2px; margin-left:30px; margin-bottom:0px; margin-right:5px;
+padding:7px 10px 10px 10px; line-height:1.3em;
+border:2px solid #9DDF99; width:100%;
+display:none; position:absolute; z-index:2; background-color:#FFFFFF;
+}
+.rg {color:#008000; padding:0 5px 0 5px;}
+.rl {color:#000; padding:0 5px 0 5px;background-color:#9DDF99;text-decoration:none;}
+</style>
+<div class="g-section sfe-break-bottom-13">
+<div class="hdg top appbar-hide"><h3>
+Technology
+</h3></div>
+</div>
+<div class="g-section g-tpl-right-1">
+<div class="g-unit g-first">
+<div class=g-c>
+<div class=hdg><h3>News</h3></div>
+<div id=category-news class="news sfe-section">
+<div class=title>
+<a title="Micron Technology, Inc., Reports Results for the Second Quarter of Fiscal 2017" href="http://news.google.com/news/url?sa=T&amp;ct2=us&amp;fd=S&amp;url=http://finance.yahoo.com/news/micron-technology-inc-reports-results-200521491.html&amp;cid=52779434490178&amp;ei=sC_VWPmqOIiMjAHdp43IBw&amp;usg=AFQjCNHe3oltRATnEhKSIMPAOPU8TJYL8Q" rel=nofollow  id=n-s- >Micron Technology, Inc., Reports Results for the Second Quarter of Fiscal 2017
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>Yahoo Finance -</span>
+<span class=date>18 hours ago</span>
+</div>
+<div class=title>
+<a title="Up 147% in the Past Year, Will This Newest Product Push Micron Technology Inc ..." href="http://news.google.com/news/url?sa=T&amp;ct2=us&amp;fd=S&amp;url=http://host.madison.com/business/investment/markets-and-stocks/up-in-the-past-year-will-this-newest-product-push/article_a2a55362-bd80-5206-b73f-a4deed193d80.html&amp;cid=52779428959683&amp;ei=sC_VWPmqOIiMjAHdp43IBw&amp;usg=AFQjCNE5dyyo-Vwli9I_ZsUnataWP1hN5g" rel=nofollow  id=n-s- >Up 147% in the Past Year, Will This Newest Product Push Micron Technology Inc .....
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>Madison.com -</span>
+<span class=date>Mar 22, 2017</span>
+</div>
+<div class=title>
+<a title="3 Stocks to Watch on Friday: Micron Technology, Inc. (MU), GameStop Corp. (GME ..." href="http://news.google.com/news/url?sa=T&amp;ct2=us&amp;fd=S&amp;url=http://investorplace.com/2017/03/3-stocks-to-watch-on-friday-micron-technology-inc-mu-gamestop-corp-gme-and-inventure-foods-inc-snak/&amp;cid=52779429667742&amp;ei=sC_VWPmqOIiMjAHdp43IBw&amp;usg=AFQjCNE3GQ9xOQdLJw7Nee2WQcs4IluPHg" rel=nofollow  id=n-s- >3 Stocks to Watch on Friday: Micron Technology, Inc. (MU), GameStop Corp. (GME ....
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>Investorplace.com -</span>
+<span class=date>2 hours ago</span>
+</div>
+<div class=title>
+<a title="Micron Technology Inc: Hits 2-yr high on upbeat forecast" href="http://news.google.com/news/url?sa=T&amp;ct2=us&amp;fd=S&amp;url=http://timesofindia.indiatimes.com/business/international-business/micron-technology-inc-hits-2-yr-high-on-upbeat-forecast/articleshow/57814507.cms&amp;cid=0&amp;ei=sC_VWPmqOIiMjAHdp43IBw&amp;usg=AFQjCNGp8wA4PjWNThgwM5IwBQaRElKaAQ" rel=nofollow  id=n-s- >Micron Technology Inc: Hits 2-yr high on upbeat forecast
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>Times of India -</span>
+<span class=date>38 minutes ago</span>
+</div>
+<div class=title>
+<a title="Why NeoPhotonics Corp Stock Jumped Today" href="http://news.google.com/news/url?sa=T&amp;ct2=us&amp;fd=S&amp;url=https://www.fool.com/investing/2017/03/15/why-neophotonics-corp-stock-jumped-today.aspx&amp;cid=52779418321628&amp;ei=sC_VWPmqOIiMjAHdp43IBw&amp;usg=AFQjCNHJSNzh3zf2YalK8t23gZGT0IEvNQ" rel=nofollow  id=n-s- >Why NeoPhotonics Corp Stock Jumped Today
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>Motley Fool -</span>
+<span class=date>Mar 15, 2017</span>
+</div>
+<div class=title>
+<a title="First Product Jointly Developed By Intel Corporation (NASDAQ:INTC) And Micron ..." href="http://news.google.com/news/url?sa=T&amp;ct2=us&amp;fd=S&amp;url=https://www.journaltranscript.com/2017/03/first-product-jointly-developed-by-intel-corporation-nasdaqintc-and-micron-technology-inc-nasdaqmu-launched/&amp;cid=52779432978728&amp;ei=sC_VWPmqOIiMjAHdp43IBw&amp;usg=AFQjCNHlPV6Lcv6rylgWl4hXTDFJp4QiZw" rel=nofollow  id=n-s- >First Product Jointly Developed By Intel Corporation (NASDAQ:INTC) And Micron .....
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>Journal Transcript -</span>
+<span class=date>Mar 22, 2017</span>
+</div>
+<div class=title>
+<a title="Ciber, Inc. (CBR) to Sell Its Infor Practice To Infor" href="http://news.google.com/news/url?sa=T&amp;ct2=us&amp;fd=S&amp;url=https://www.streetinsider.com/Corporate%2BNews/Ciber%252C%2BInc.%2B(CBR)%2Bto%2BSell%2BIts%2BInfor%2BPractice%2BTo%2BInfor/12685140.html&amp;cid=52779429721547&amp;ei=sC_VWPmqOIiMjAHdp43IBw&amp;usg=AFQjCNFEkQL2kp0a7mPmjRAuJtlpYjaCoA" rel=nofollow  id=n-s- >Ciber, Inc. (CBR) to Sell Its Infor Practice To Infor
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>StreetInsider.com -</span>
+<span class=date>Mar 20, 2017</span>
+</div>
+<div class=title>
+<a title="Examining Apple Inc.&#39;s (AAPL) New Online Store Updates, Previewing Micron ..." href="http://news.google.com/news/url?sa=T&amp;ct2=us&amp;fd=S&amp;url=https://www.smarteranalyst.com/2017/03/22/examining-apple-inc-s-aapl-new-online-store-updates-previewing-micron-technology-inc-mu-ahead-earnings/&amp;cid=52779432645862&amp;ei=sC_VWPmqOIiMjAHdp43IBw&amp;usg=AFQjCNEMLV42P8IiBCWuLJNnsnstpXEtYg" rel=nofollow  id=n-s- >Examining Apple Inc.&#39;s (AAPL) New Online Store Updates, Previewing Micron .....
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>Smarter Analyst -</span>
+<span class=date>Mar 22, 2017</span>
+</div>
+<div class=title>
+<a title="BRIGHTCOVE INC. (NASDAQ:BCOV) Files An 8-K Regulation FD Disclosure" href="http://news.google.com/news/url?sa=T&amp;ct2=us&amp;fd=S&amp;url=https://marketexclusive.com/brightcove-inc-nasdaqbcov-files-an-8-k-regulation-fd-disclosure/85764/&amp;cid=0&amp;ei=sC_VWPmqOIiMjAHdp43IBw&amp;usg=AFQjCNHbWJT2Mn79B3H9G9K6jToHts6hLA" rel=nofollow  id=n-s- >BRIGHTCOVE INC. (NASDAQ:BCOV) Files An 8-K Regulation FD Disclosure
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>Market Exclusive -</span>
+<span class=date>17 hours ago</span>
+</div>
+<div class=title>
+<a title="Has Micron Moved Beyond The Merely Cyclical?" href="http://news.google.com/news/url?sa=T&amp;ct2=us&amp;fd=S&amp;url=http://seekingalpha.com/article/4057641-micron-moved-beyond-merely-cyclical&amp;cid=0&amp;ei=sC_VWPmqOIiMjAHdp43IBw&amp;usg=AFQjCNF_y64FL9BwTGuXpk2ZhrxszLSQ7w" rel=nofollow  id=n-s- >Has Micron Moved Beyond The Merely Cyclical?
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>Seeking Alpha -</span>
+<span class=date>13 hours ago</span>
+</div>
+<div>
+<a href="/finance/category_news?catid=TRBC:57&amp;ei=QTDVWLGWHdPTjAHDn6_wDQ" >All news for Technology &raquo;</a>
+</div>
+</div>
+<div style=padding-bottom:1.5em;>
+<table id=subcategory cellpadding=0 cellspacing=0 width=100%>
+<tr><td>
+<div class=hdg>&nbsp;<h3>Subcategories</h3></div>
+<div class=sfe-section>
+<div class=sfe-break-bottom-4>
+<a href="/finance?catid=us-TRBC:5710&amp;ei=QTDVWLGWHdPTjAHDn6_wDQ">Technology Equipment</a></div>
+<div class=sfe-break-bottom-4>
+<a href="/finance?catid=us-TRBC:5720&amp;ei=QTDVWLGWHdPTjAHDn6_wDQ">Software &amp; IT Services</a></div>
+</div>
+</table>
+</div>
+</div>
+</div>
+<div class=g-unit>
+<div class="g-c sfe-break-right">
+<table width=100% id=category_chart class="category_chart_table" cellpadding=0 cellspacing=0>
+<tr valign="top" width=100%>
+<td align=center colspan=2 width=100% bgcolor=white>
+<div id=market-data-div class=category_market_data_nojs width=100%></div>
+<div id=chart_anchor class="id-chart_anchor category_chart_anchor_nojs">
+</div>
+<div class=id-chart-footer></div>
+<tr>
+<td><img alt="" id=cleardot src="/finance/s/m4C5KaofCbA/images/cleardot.gif" width="360" height="1"/>
+</table>
+<div id=topmovers_header>
+<div class="hdg"><div class="g-section g-tpl-50-50 g-split">
+<div class="g-unit g-first"><h3>Top movers</h3></div>
+<div class="g-unit">Generated <b>2 minutes ago</b>
+</div>
+</div></div>
+</div>
+<div class="sfe-break-bottom">
+<table class="topmovers" cellpadding=0 cellspacing=0 width=95% valign="top">
+<tr >
+<td style="text-align:left" colspan=2><b>Gainers (% price change)</b>
+<td width=15%>Last&nbsp;Trade
+<td width=20%>Change
+<td width=15%>
+Mkt&nbsp;Cap
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:MU&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Micron Technology, Inc.</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:MU&ei=QTDVWLGWHdPTjAHDn6_wDQ" >MU</a>
+<td>28.89
+<td width=20%>
+<span class=chg>+2.42</span>
+<span class=chg>(9.14%)</span>
+<td>32.36B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:NPTN&ei=QTDVWLGWHdPTjAHDn6_wDQ" >NeoPhotonics Corp</a>
+<td style="text-align:left;">
+<a href="/finance?q=NYSE:NPTN&ei=QTDVWLGWHdPTjAHDn6_wDQ" >NPTN</a>
+<td>9.42
+<td width=20%>
+<span class=chg>+0.63</span>
+<span class=chg>(7.17%)</span>
+<td>403.06M
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:SIGM&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Sigma Designs Inc</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:SIGM&ei=QTDVWLGWHdPTjAHDn6_wDQ" >SIGM</a>
+<td>5.95
+<td width=20%>
+<span class=chg>+0.30</span>
+<span class=chg>(5.31%)</span>
+<td>227.05M
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:GUID&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Guidance Software, Inc.</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:GUID&ei=QTDVWLGWHdPTjAHDn6_wDQ" >GUID</a>
+<td>6.13
+<td width=20%>
+<span class=chg>+0.29</span>
+<span class=chg>(4.97%)</span>
+<td>202.32M
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:WDC&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Western Digital Corp</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:WDC&ei=QTDVWLGWHdPTjAHDn6_wDQ" >WDC</a>
+<td>79.87
+<td width=20%>
+<span class=chg>+3.68</span>
+<span class=chg>(4.83%)</span>
+<td>23.40B
+<tr class=beginsec>
+<td style="text-align:left" colspan=2><b>Losers (% price change)</b>
+<td colspan=3>
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NYSEMKT:VHC&ei=QTDVWLGWHdPTjAHDn6_wDQ" >VirnetX Holding Corp.</a>
+<td style="text-align:left;">
+<a href="/finance?q=NYSEMKT:VHC&ei=QTDVWLGWHdPTjAHDn6_wDQ" >VHC</a>
+<td>2.00
+<td width=20%>
+<span class=chr>-0.10</span>
+<span class=chr>(-4.76%)</span>
+<td>116.29M
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:AVID&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Avid Technology, Inc.</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:AVID&ei=QTDVWLGWHdPTjAHDn6_wDQ" >AVID</a>
+<td>4.69
+<td width=20%>
+<span class=chr>-0.19</span>
+<span class=chr>(-3.89%)</span>
+<td>202.13M
+<tr>
+<td style="text-align:left;">
+<a href="/finance?cid=7287023&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Motorola Mobility Hldgs</a>
+<td style="text-align:left;">
+<a href="/finance?cid=7287023&ei=QTDVWLGWHdPTjAHDn6_wDQ" ></a>
+<td>23.66
+<td width=20%>
+<span class=chr>-0.75</span>
+<span class=chr>(-3.07%)</span>
+<td>888.05M
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:CALL&ei=QTDVWLGWHdPTjAHDn6_wDQ" >magicJack VocalTec Ltd</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:CALL&ei=QTDVWLGWHdPTjAHDn6_wDQ" >CALL</a>
+<td>8.50
+<td width=20%>
+<span class=chr>-0.15</span>
+<span class=chr>(-1.73%)</span>
+<td>136.43M
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:CSIQ&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Canadian Solar Inc.</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:CSIQ&ei=QTDVWLGWHdPTjAHDn6_wDQ" >CSIQ</a>
+<td>11.45
+<td width=20%>
+<span class=chr>-0.19</span>
+<span class=chr>(-1.59%)</span>
+<td>639.79M
+<tr class=beginsec>
+<td style="text-align:left" colspan=2><b>Most Actives (dollar volume)</b>
+<td colspan=3>
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:MU&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Micron Technology, Inc.</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:MU&ei=QTDVWLGWHdPTjAHDn6_wDQ" >MU</a>
+<td>28.89
+<td width=20%>
+<span class=chg>+2.42</span>
+<span class=chg>(9.14%)</span>
+<td>32.36B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:AAPL&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Apple Inc.</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:AAPL&ei=QTDVWLGWHdPTjAHDn6_wDQ" >AAPL</a>
+<td>141.42
+<td width=20%>
+<span class=chg>+0.50</span>
+<span class=chg>(0.35%)</span>
+<td>739.34B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:NVDA&ei=QTDVWLGWHdPTjAHDn6_wDQ" >NVIDIA Corporation</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:NVDA&ei=QTDVWLGWHdPTjAHDn6_wDQ" >NVDA</a>
+<td>108.37
+<td width=20%>
+<span class=chg>+1.28</span>
+<span class=chg>(1.20%)</span>
+<td>63.83B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:AMZN&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Amazon.com, Inc.</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:AMZN&ei=QTDVWLGWHdPTjAHDn6_wDQ" >AMZN</a>
+<td>848.52
+<td width=20%>
+<span class=chg>+1.14</span>
+<span class=chg>(0.13%)</span>
+<td>404.56B
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:GOOGL&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Alphabet Inc</a>
+<td style="text-align:left;">
+<a href="/finance?q=NASDAQ:GOOGL&ei=QTDVWLGWHdPTjAHDn6_wDQ" >GOOGL</a>
+<td>818.91
+<td width=20%>
+<span class=chg>+1.33</span>
+<span class=chg>(0.16%)</span>
+<td>565.52B
+</table>
+</div>
+</div>
+</div>
+</div>
+<table id=main width="100%" cellpadding="0" cellspacing="0" border="0" class=results>
+<tr>
+<td colspan=8 style="text-align:left;">
+Companies <b>1 - 20</b> of about <b>884</b> in <b>Technology</b>&nbsp;
+<tr class="hdg">
+<td class="hdg" style="text-align:left">
+<a href="/finance?catid=TRBC:57&amp;sort=a&amp;ei=QTDVWLGWHdPTjAHDn6_wDQ" name="link_Company">
+<b>Company</b></a>
+<img alt="" width=14 height=1 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="/finance?catid=TRBC:57&amp;sort=QUOTE_LAST&amp;ei=QTDVWLGWHdPTjAHDn6_wDQ" name="link_Quote"><b><nobr>Quote</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="/finance?catid=TRBC:57&amp;sort=QUOTE_CHANGE&amp;ei=QTDVWLGWHdPTjAHDn6_wDQ" name="link_Change"><b><nobr>Change</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/nDKCztIaHVI/images/sort_down.gif">
+<a href="/finance?catid=TRBC:57&amp;sort=QUOTE_PERC_CHANGE&amp;desc&amp;ei=QTDVWLGWHdPTjAHDn6_wDQ" name="link_Change%"><b><nobr>Change%</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="/finance?catid=TRBC:57&amp;sort=MARKET_CAP&amp;ei=QTDVWLGWHdPTjAHDn6_wDQ" name="link_Market Cap"><b><nobr>Market Cap</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="/finance?catid=TRBC:57&amp;sort=PE_RATIO&amp;ei=QTDVWLGWHdPTjAHDn6_wDQ" name="link_P/E (ttm)"><b><nobr>P/E (ttm)</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="/finance?catid=TRBC:57&amp;sort=AREV&amp;ei=QTDVWLGWHdPTjAHDn6_wDQ" name="link_Ann. Revenue"><b><nobr>Ann. Revenue</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="/finance?catid=TRBC:57&amp;sort=ANIAC&amp;ei=QTDVWLGWHdPTjAHDn6_wDQ" name="link_Ann. Net Income"><b><nobr>Ann. Net Income</b></a>
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:BCOV&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Brightcove Inc</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+8.89
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.89</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 11.08</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+306.51M
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+150.27
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-9.99
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:AKTS&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Akoustis Technologies Inc</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+10.50
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +1.01</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 10.64</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+190.80M
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+0.00
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-5.41
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:MU&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Micron Technology, Inc.</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+28.78
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +2.31</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 8.73</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+32.24B
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+12,399.00
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-276.00
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:NPTN&ei=QTDVWLGWHdPTjAHDn6_wDQ" >NeoPhotonics Corp</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+9.44
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.66</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 7.52</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+403.91M
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+411.42
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-0.20
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:AAOI&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Applied Optoelectronics Inc</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+55.30
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +3.79</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 7.36</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+1.01B
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+31.99
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+260.71
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+31.23
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:SIGM&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Sigma Designs Inc</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+5.95
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.30</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 5.31</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+227.05M
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+227.25
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+0.16
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:AMBR&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Amber Road Inc</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+7.66
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.37</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 5.08</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+206.54M
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+73.16
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-18.73
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:NNDM&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Nano Dimension Ltd - ADR</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+7.00
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.33</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 4.95</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+66.29M
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:WDC&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Western Digital Corp</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+79.83
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +3.64</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 4.78</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+23.38B
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+12,994.00
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+242.00
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:STM&ei=QTDVWLGWHdPTjAHDn6_wDQ" >STMicroelectronics NV (ADR)</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+15.94
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.69</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 4.49</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+14.65B
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+85.96
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+6,973.00
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+165.00
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:MNDO&ei=QTDVWLGWHdPTjAHDn6_wDQ" >MIND C.T.I. Ltd.</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+2.50
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.09</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 3.73</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+48.08M
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+11.22
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+18.05
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+4.20
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSEMKT:WYY&ei=QTDVWLGWHdPTjAHDn6_wDQ" >WidePoint Corporation</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+0.591
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.020</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 3.50</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+49.95M
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+70.84
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-5.47
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:DRAM&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Dataram Corp</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+1.20
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.04</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 3.22</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+5.67M
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+25.18
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-1.34
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:MVIS&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Microvision, Inc.</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+2.34
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.07</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 3.08</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+148.30M
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+14.76
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-16.47
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:UPLD&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Upland Software Inc</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+14.82
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.38</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 2.63</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+274.09M
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+69.91
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-13.66
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:VRTU&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Virtusa Corporation</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+30.18
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.68</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 2.31</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+910.91M
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+66.90
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+600.30
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+44.80
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:GSUM&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Gridsum Holding Inc - ADR</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+12.49
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.10</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 0.81</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+355.68M
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+34.12
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-12.37
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:OHGI&ei=QTDVWLGWHdPTjAHDn6_wDQ" >One Horizon Group Inc</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+0.277
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.002</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 0.80</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+10.18M
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+1.53
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-10.97
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NYSE:CBR&ei=QTDVWLGWHdPTjAHDn6_wDQ" >CIBER, Inc.</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+0.375
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.002</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 0.43</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+30.58M
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+786.96
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+3.58
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=NASDAQ:CNET&ei=QTDVWLGWHdPTjAHDn6_wDQ" >Chinanet Online Holdings Inc</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+1.11
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chr"> -0.03</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chr"> -2.63</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+12.89M
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+32.26
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-7.63
+</table>
+<br>
+<br>
+<center style="padding:0 0.5em 1.5em 0.5em;">
+<div id=navbar>
+<table width="1%" cellspacing=0 cellpadding=0>
+<tr valign="top" align="center" style="text-align:center;">
+<td nowrap><div id=nav_nf></div></td>
+<td nowrap>
+<div id=nav_nc></div><span class=nav_i>1</span>
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A57&amp;amp;sort=PE_RATIO&amp;amp;ei=s03UWOm2GorNjAHb-I-YBA&amp;amp;start=20&amp;amp;num=20&amp;start=20&amp;num=20">
+<div class=nav_nr></div>2</a>
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A57&amp;amp;sort=PE_RATIO&amp;amp;ei=s03UWOm2GorNjAHb-I-YBA&amp;amp;start=20&amp;amp;num=20&amp;start=40&amp;num=20">
+<div class=nav_nr></div>3</a>
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A57&amp;amp;sort=PE_RATIO&amp;amp;ei=s03UWOm2GorNjAHb-I-YBA&amp;amp;start=20&amp;amp;num=20&amp;start=60&amp;num=20">
+<div class=nav_nr></div>4</a>
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A57&amp;amp;sort=PE_RATIO&amp;amp;ei=s03UWOm2GorNjAHb-I-YBA&amp;amp;start=20&amp;amp;num=20&amp;start=80&amp;num=20">
+<div class=nav_nr></div>5</a>
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A57&amp;amp;sort=PE_RATIO&amp;amp;ei=s03UWOm2GorNjAHb-I-YBA&amp;amp;start=20&amp;amp;num=20&amp;start=100&amp;num=20">
+<div class=nav_nr></div>6</a>
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A57&amp;amp;sort=PE_RATIO&amp;amp;ei=s03UWOm2GorNjAHb-I-YBA&amp;amp;start=20&amp;amp;num=20&amp;start=120&amp;num=20">
+<div class=nav_nr></div>7</a>
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A57&amp;amp;sort=PE_RATIO&amp;amp;ei=s03UWOm2GorNjAHb-I-YBA&amp;amp;start=20&amp;amp;num=20&amp;start=140&amp;num=20">
+<div class=nav_nr></div>8</a>
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A57&amp;amp;sort=PE_RATIO&amp;amp;ei=s03UWOm2GorNjAHb-I-YBA&amp;amp;start=20&amp;amp;num=20&amp;start=160&amp;num=20">
+<div class=nav_nr></div>9</a>
+</td>
+<td nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A57&amp;amp;sort=PE_RATIO&amp;amp;ei=s03UWOm2GorNjAHb-I-YBA&amp;amp;start=20&amp;amp;num=20&amp;start=180&amp;num=20">
+<div class=nav_nr></div>10</a>
+</td>
+<td class=nav_b nowrap>
+<a href="http://www.google.com/finance?catid=TRBC%3A57&amp;amp;sort=PE_RATIO&amp;amp;ei=s03UWOm2GorNjAHb-I-YBA&amp;amp;start=20&amp;amp;num=20&amp;start=20&amp;num=20"><div id=nav_nn></div>Next</a>
+</td>
+</tr>
+</table>
+</div>
+</center>
+</div></div></div></div></div><div id=gf-foot><div id=fjfe-edition-links class=fjfe-footer-links>Google Finance Beta available in: <a href="http://www.google.com.hk/finance?ei=QTDVWLGWHdPTjAHDn6_wDQ" class="fjfe-edition-link">Hong Kong</a> - <a href="http://www.google.ca/finance?ei=QTDVWLGWHdPTjAHDn6_wDQ" class="fjfe-edition-link">Canada</a> - <a href="http://www.google.com/finance?ei=QTDVWLGWHdPTjAHDn6_wDQ" class="fjfe-edition-link">U.S.</a> - <a href="http://www.google.com.hk/finance?hl=zh-CN&ei=QTDVWLGWHdPTjAHDn6_wDQ" class="fjfe-edition-link">China</a> - <a href="http://www.google.co.uk/finance?ei=QTDVWLGWHdPTjAHDn6_wDQ" class="fjfe-edition-link">U.K.</a></div><p class=fjfe-footer-disclaimer>Information is provided "as is" and solely for informational purposes, not for trading purposes or advice, and may be delayed.<br>To see all exchange delays, please <a href="http://www.google.com/intl/en/googlefinance/disclaimer/?ei=QTDVWLGWHdPTjAHDn6_wDQ" class="fjfe-secondary-link fjfe-no-sticky-params"> see disclaimer</a>.</p><div class=fjfe-footer-links>&copy;2017 Google - <a href="http://www.google.com?hl=en&ei=QTDVWLGWHdPTjAHDn6_wDQ">Google Home</a> - <a href="http://googlefinanceblog.blogspot.com?ei=QTDVWLGWHdPTjAHDn6_wDQ">Blog</a> - <a href="http://support.google.com/finance?hl=en&ei=QTDVWLGWHdPTjAHDn6_wDQ">Help</a> - <a href="http://support.google.com/finance?ctx=report&hl=en&ei=QTDVWLGWHdPTjAHDn6_wDQ">Report a Problem</a> - <a href="http://www.google.com/intl/en/policies/privacy/?ei=QTDVWLGWHdPTjAHDn6_wDQ">Privacy Policy</a> - <a href="http://www.google.com/intl/en/policies/terms/?ei=QTDVWLGWHdPTjAHDn6_wDQ">Terms of Service</a></div></div><script>var _cleardot = 'data:image\/gif;base64,R0lGODlhAQABAIAAAP\/\/\/\/\/\/\/yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d';
+    var google = google || {};
+    google.finance = google.finance || {};
+    google.finance.gce = false ;</script><script src="/finance/f/sfe-opt-1767485581.js"></script><script>
+      _regOnLoad = function(f) {
+        if (document.readyState == 'complete') {
+          f && f();
+        } else {
+          // Window.attachEvent() for IE8 and below compatability.
+          var addEventFunction = window.attachEvent ||
+              window.addEventListener || function(ignored, f) { f(); };
+          var event = window.attachEvent ? 'onload' : 'load';
+          f && addEventFunction(event, f);
+        }
+      };
+    
+      google.finance.renderRecentQuotes = function() {};
+    </script>
+<script>
+var _ticker = 'INDEXCAT:catid-TRBC:57';
+var _timeZoneOffset = '0';
+var _categoryName = 'Technology';
+var _displayVolume = false;
+_s_Store._numToDisplay = 3;
+_ac_register(function (input, event) {
+if (input.id == 'add_comparison_symbol') {
+_comparison_charts_Store.baseTicker = "INDEXCAT:catid-TRBC:57";
+return _comparison_charts_Store;
+}
+});
+google.finance.data = null;
+function _visibleChartRangeChanged(startTime, endTime, numdays) {
+}
+var headings = new Array("tm_price","tm_mcap","tm_wmcap");
+var link_names = new Array("l_tm_price","l_tm_mcap","l_tm_wmcap");
+function show_tab(name) {
+for (var i = 0; i < headings.length; i++) {
+        var mylink = document.getElementById(link_names[i]);
+        var mydiv = document.getElementById(headings[i]);
+        if (mydiv) {
+          if (headings[i] == name) {
+            mydiv.style.display = "block";
+            if (mylink) {
+              mylink.className = "ac";
+            }
+          } else {
+            mydiv.style.display = "none";
+            if (mylink) {
+              mylink.className = "nac";
+            }
+          }
+        }
+      }
+    }
+
+    function initCategoryPage() {
+      _minZoomDays = 3;
+
+      _chartConfigObject = {};
+      _chartConfigObject.minZoomDaysNormal = _minZoomDays;
+      _chartConfigObject.volume = _displayVolume;
+      _chartConfigObject.defaultZoomDays = 3;
+      _chartConfigObject.displayName = _categoryName;
+      _chartConfigObject.hasExtendedHours = 'false';
+
+      _chartConfigObject.compareTo = 'INDEXSP:.INX';
+      _chartConfigObject.compareToDisplayName = '';
+
+      
+      _external_target = "";
+      _emitFlashChart("/finance/s/n-VxNKK74DU/chart9.swf?hl=en&gl=us",
+          _ticker,_chartConfigObject,"http:\x2F\x2Fwww.google.com:80","chart_anchor");
+      _initAutoFocus();
+    }
+  </script>
+<script>
+var _chartConfigObject;
+var _cleardot;
+var _companyName;
+var _eventid = 'QTDVWLGWHdPTjAHDn6_wDQ';
+var _expid;
+var _external_target;
+var _localDomain = 'www.google.com';
+var _minZoomDays;
+var _minZoomDaysNoIntraDay;
+var _prefs;
+var _ticker;
+var _urlSuffix;
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chg",down:"chr",linktargetInternal:"",hash:""},stickyUrlArgs:"\u0026ei=QTDVWLGWHdPTjAHDn6_wDQ",chart:{_5d:"EXCHANGE%3DINDEXCAT\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=120\nCOLUMNS=DATE,CLOSE,VOLUME\nDATA=\nTIMEZONE_OFFSET=-240\na1490016600,536930.678,0\n1,536886.395,0\n2,536881.765,0\n3,537197.402,0\n4,537048.27,0\n5,537223.873,0\n6,537389.961,0\n7,537416.955,0\n8,537332.049,0\n9,537593.049,0\n10,537565.053,0\n11,537687.166,0\n12,537510.91,0\n13,537636.047,0\n14,537654.411,0\n15,537606.587,0\n16,537690.04,0\n17,537762.8149,0\n18,537989.008,0\n19,537976.594,0\n20,537962.259,0\n21,538109.4229,0\n22,538187.16,0\n23,538362.49,0\n24,538388.1679,0\n25,538623.094,0\n26,538835.317,0\n27,538799.142,0\n28,539078.694,0\n29,538934.075,0\n30,538861.351,0\n31,538678.126,0\n32,538620.694,0\n33,538542.577,0\n34,538558.15,0\n35,538641.591,0\n36,538710.08,0\n37,538763.979,0\n38,538825.011,0\n39,538738.659,0\n40,538787.506,0\n41,538684.805,0\n42,538571.624,0\n43,538523.303,0\n44,538515.187,0\n45,538777.768,0\n46,538707.683,0\n47,538543.578,0\n48,538503.706,0\n49,538498.748,0\n50,538537.153,0\n51,538413.006,0\n52,538286.309,0\n53,538452.907,0\n54,538490.5209,0\n55,538552.912,0\n56,538443.14,0\n57,538384.947,0\n58,538311.838,0\n59,538165.683,0\n60,538161.7929,0\n61,538259.659,0\n62,538210.824,0\n63,538198.426,0\n64,538269.834,0\n65,538249.448,0\n66,538399.664,0\n67,538359.254,0\n68,538350.941,0\n69,538337.031,0\n70,538361.875,0\n71,538484.226,0\n72,538478.925,0\n73,538348.7169,0\n74,538338.108,0\n75,538277.84,0\n76,538283.803,0\n77,538275.238,0\n78,538325.254,0\n79,538338.949,0\n80,538315.983,0\n81,538422.25,0\n82,538331.464,0\n83,538026.225,0\n84,537928.658,0\n85,537913.932,0\n86,538043.7169,0\n87,538062.935,0\n88,538092.037,0\n89,538051.461,0\n90,537999.759,0\n91,538054.401,0\n92,538058.053,0\n93,538099.678,0\n94,538113.496,0\n95,538172.853,0\n96,538219.927,0\n97,538323.709,0\n98,538447.6679,0\n99,538252.14,0\n100,538235.4129,0\n101,538282.361,0\n102,538139.527,0\n103,538220.113,0\n104,538212.642,0\n105,538218.074,0\n106,538243.991,0\n107,538156.133,0\n108,538171.333,0\n109,538054.843,0\n110,538015.527,0\n111,538066.845,0\n112,538117.257,0\n113,538075.215,0\n114,538083.84,0\n115,538025.647,0\n116,537997.18,0\n117,538110.317,0\n118,538066.9,0\n119,538056.357,0\n120,538088.471,0\n121,538152.702,0\n122,538199.238,0\n123,538080.453,0\n124,538013.9,0\n125,537443.702,0\n126,537406.9179,0\n127,537182.03,0\n128,537345.341,0\n129,537330.197,0\n130,537252.037,0\n131,537344.02,0\n132,537269.621,0\n133,537318.251,0\n134,537347.131,0\n135,537388.212,0\n136,537309.625,0\n137,537307.089,0\n138,537369.72,0\n139,537444.335,0\n140,537503.286,0\n141,537495.562,0\n142,537611.968,0\n143,537536.053,0\n144,537509.475,0\n145,537506.0429,0\n146,537547.7929,0\n147,537523.825,0\n148,537603.925,0\n149,537549.735,0\n150,537516.4889,0\n151,537548.908,0\n152,537533.411,0\n153,537430.579,0\n154,536923.704,0\n155,537086.6679,0\n156,537089.595,0\n157,537113.123,0\n158,536947.0969,0\n159,536747.313,0\n160,536809.786,0\n161,536912.348,0\n162,536914.135,0\n163,537005.6629,0\n164,537076.949,0\n165,537080.085,0\n166,537118.854,0\n167,537109.061,0\n168,537225.485,0\n169,537266.036,0\n170,537400.58,0\n171,537529.81,0\n172,537576.897,0\n173,537742.081,0\n174,537929.897,0\n175,537885.4,0\n176,537872.35,0\n177,537859.34,0\n178,537889.848,0\n179,538026.0649,0\n180,538083.387,0\n181,538102.2709,0\n182,538056.811,0\n183,538071.412,0\n184,537951.082,0\n185,537951.166,0\n186,537980.084,0\n187,537936.265,0\n188,537903.789,0\n189,537941.729,0\n190,538014.801,0\n191,537959.401,0\n192,537888.93,0\n193,537915.075,0\n194,537952.001,0\n195,538710.835,0\n720,541204.882,0\n721,540917.482,0\n722,541373.986,0\n723,541404.3959,0\n724,541151.1679,0\n725,541168.2219,0\n726,541055.299,0\n727,541335.246,0\n728,541278.007,0\n729,541148.392,0\n730,541078.936,0\n731,541183.294,0\n732,541113.153,0\n733,541144.971,0\n734,540996.182,0\n735,540602.675,0\n736,540012.492,0\n737,539966.529,0\n738,540008.454,0\n739,539791.773,0\n740,539858.713,0\n741,539430.584,0\n742,538982.799,0\n743,538985.933,0\n744,539031.806,0\n745,538935.215,0\n746,539159.672,0\n747,538823.31,0\n748,538778.7169,0\n749,538047.133,0\n750,537872.422,0\n751,538208.419,0\n752,537992.468,0\n753,537964.338,0\n754,537788.552,0\n755,537931.185,0\n756,538204.354,0\n757,538045.205,0\n758,537784.995,0\n759,537886.135,0\n760,537828.761,0\n761,537665.378,0\n762,537167.821,0\n763,536686.292,0\n764,536555.936,0\n765,536544.136,0\n766,536252.737,0\n767,535785.828,0\n768,535823.683,0\n769,535517.662,0\n770,535989.031,0\n771,535983.08,0\n772,535473.479,0\n773,535085.636,0\n774,534446.159,0\n775,534168.474,0\n776,534432.758,0\n777,534453.117,0\n778,534242.971,0\n779,534353.9,0\n780,533874.552,0\n781,533619.12,0\n782,533477.613,0\n783,532948.681,0\n784,533336.13,0\n785,533392.8199,0\n786,533049.59,0\n787,533090.794,0\n788,533461.159,0\n789,533827.67,0\n790,533791.7219,0\n791,534044.857,0\n792,534239.649,0\n793,534324.547,0\n794,534602.426,0\n795,534569.784,0\n796,534389.4229,0\n797,534586.825,0\n798,534905.805,0\n799,534720.111,0\n800,534706.821,0\n801,534546.245,0\n802,534302.848,0\n803,534063.106,0\n804,533945.627,0\n805,534018.206,0\n806,533975.399,0\n807,533768.718,0\n808,533838.794,0\n809,533915.15,0\n810,533992.883,0\n811,533824.117,0\n812,533724.799,0\n813,533550.009,0\n814,533444.064,0\n815,533402.237,0\n816,533472.862,0\n817,533342.859,0\n818,533038.204,0\n819,532786.825,0\n820,532706.349,0\n821,532541.949,0\n822,532888.086,0\n823,533274.34,0\n824,533051.22,0\n825,533053.8149,0\n826,533083.061,0\n827,532990.497,0\n828,532776.939,0\n829,532710.615,0\n830,532797.194,0\n831,532680.598,0\n832,532489.221,0\n833,532711.178,0\n834,532551.579,0\n835,532308.573,0\n836,532418.344,0\n837,532364.574,0\n838,532500.246,0\n839,532805.008,0\n840,533056.175,0\n841,532826.808,0\n842,532680.866,0\n843,532534.991,0\n844,532539.804,0\n845,532533.541,0\n846,532469.738,0\n847,532261.3,0\n848,532231.213,0\n849,531847.055,0\n850,531869.427,0\n851,531483.227,0\n852,531198.465,0\n853,531196.374,0\n854,530998.86,0\n855,531333.2389,0\n856,531205.603,0\n857,530901.27,0\n858,530942.679,0\n859,531561.719,0\n860,531785.448,0\n861,531513.234,0\n862,531608.5159,0\n863,531786.878,0\n864,532234.162,0\n865,532100.948,0\n866,532008.2439,0\n867,531829.628,0\n868,531841.24,0\n869,531801.738,0\n870,532121.474,0\n871,532159.707,0\n872,532680.678,0\n873,532365.508,0\n874,532394.885,0\n875,532362.91,0\n876,532279.881,0\n877,531757.387,0\n878,531470.487,0\n879,531558.963,0\n880,531542.149,0\n881,531634.111,0\n882,532352.0919,0\n883,532185.968,0\n884,532212.567,0\n885,531996.332,0\n886,532054.589,0\n887,532050.41,0\n888,532356.268,0\n889,532129.7219,0\n890,532182.637,0\n891,532233.103,0\n892,532172.682,0\n893,531968.751,0\n894,532213.579,0\n895,532013.874,0\n896,531886.819,0\n897,532076.7219,0\n898,532131.284,0\n899,532087.572,0\n900,531791.786,0\n901,531816.59,0\n902,531477.138,0\n903,531560.022,0\n904,531207.377,0\n905,530739.373,0\n906,530771.1189,0\n907,530487.013,0\n908,530542.143,0\n909,530201.71,0\n910,530089.924,0\n911,529983.572,0\n912,530321.253,0\n913,530405.897,0\n914,530371.06,0\n915,522065.966,0\na1490189400,522230.215,0\n1,522451.319,0\n2,523345.948,0\n3,524021.508,0\n4,523584.411,0\n5,523222.489,0\n6,523500.625,0\n7,523802.405,0\n8,524124.461,0\n9,523728.81,0\n10,523604.273,0\n11,523558.305,0\n12,523367.891,0\n13,523069.905,0\n14,522906.635,0\n15,522796.687,0\n16,523261.385,0\n17,523279.96,0\n18,523328.249,0\n19,523064.172,0\n20,522894.592,0\n21,522621.698,0\n22,522659.67,0\n23,522419.276,0\n24,522291.492,0\n25,522545.655,0\n26,523015.39,0\n27,522696.167,0\n28,522590.551,0\n29,522300.335,0\n30,521889.446,0\n31,522038.425,0\n32,522598.909,0\n33,523180.777,0\n34,523491.17,0\n35,523582.539,0\n36,523397.36,0\n37,523183.647,0\n38,523321.356,0\n39,523551.243,0\n40,523465.829,0\n41,523842.866,0\n42,523892.484,0\n43,523900.827,0\n44,524301.417,0\n45,524160.66,0\n46,523910.913,0\n47,523950.71,0\n48,523953.076,0\n49,524237.482,0\n50,524242.223,0\n51,523987.057,0\n52,524286.673,0\n53,525322.112,0\n54,525420.804,0\n55,525478.721,0\n56,525561.232,0\n57,525568.62,0\n58,525609.409,0\n59,525640.061,0\n60,525529.58,0\n61,525343.794,0\n62,525204.012,0\n63,525326.2169,0\n64,525484.978,0\n65,525686.9939,0\n66,525741.475,0\n67,525773.162,0\n68,525652.084,0\n69,525484.352,0\n70,525487.9939,0\n71,525262.61,0\n72,525423.338,0\n73,525399.794,0\n74,525380.041,0\n75,525281.301,0\n76,525272.367,0\n77,525379.151,0\n78,525215.283,0\n79,525110.487,0\n80,524989.974,0\n81,524902.676,0\n82,524750.212,0\n83,524693.272,0\n84,524558.7929,0\n85,524710.526,0\n86,524822.832,0\n87,524767.052,0\n88,524684.981,0\n89,524706.893,0\n90,524748.131,0\n91,524918.187,0\n92,525011.889,0\n93,524982.468,0\n94,524693.091,0\n95,524811.56,0\n96,524600.559,0\n97,524605.711,0\n98,524595.047,0\n99,524697.726,0\n100,524549.654,0\n101,524311.4179,0\n102,524456.23,0\n103,524530.022,0\n104,524647.337,0\n105,524591.942,0\n106,524063.056,0\n107,524208.593,0\n108,524184.583,0\n109,524286.272,0\n110,524221.601,0\n111,524264.74,0\n112,524163.672,0\n113,524220.779,0\n114,524712.388,0\n115,524759.551,0\n116,524574.167,0\n117,524591.147,0\n118,524583.588,0\n119,524551.001,0\n120,524610.547,0\n121,524922.0479,0\n122,524983.612,0\n123,525011.329,0\n124,525108.37,0\n125,525132.536,0\n126,524982.242,0\n127,525032.852,0\n128,524886.526,0\n129,524730.838,0\n130,524733.648,0\n131,524530.123,0\n132,524305.16,0\n133,524363.435,0\n134,524346.9449,0\n135,524434.988,0\n136,524597.079,0\n137,524761.599,0\n138,524681.241,0\n139,524508.62,0\n140,524530.177,0\n141,524949.661,0\n142,524881.545,0\n143,524693.922,0\n144,524846.899,0\n145,524626.955,0\n146,524645.491,0\n147,524704.5919,0\n148,524500.773,0\n149,524263.316,0\n150,524328.846,0\n151,524522.446,0\n152,524414.026,0\n153,524744.435,0\n154,525009.81,0\n155,524968.363,0\n156,525110.719,0\n157,525170.5159,0\n158,525029.814,0\n159,525158.736,0\n160,525405.7389,0\n161,525349.799,0\n162,525138.0209,0\n163,525156.102,0\n164,525386.078,0\n165,525381.529,0\n166,525424.019,0\n167,525363.652,0\n168,525428.513,0\n169,525457.691,0\n170,525352.831,0\n171,525393.55,0\n172,525326.507,0\n173,525341.488,0\n174,525720.426,0\n175,525886.982,0\n176,525979.045,0\n177,525885.386,0\n178,525720.478,0\n179,525518.749,0\n180,525447.705,0\n181,525375.875,0\n182,525334.025,0\n183,525247.255,0\n184,525119.124,0\n185,525520.9399,0\n186,525130.93,0\n187,525447.03,0\n188,525372.415,0\n189,525428.24,0\n190,525728.838,0\n191,525697.461,0\n192,525798.499,0\n193,525789.902,0\n194,525715.2879,0\n195,535903.874,0\n720,534326.3,0\n721,534146.9669,0\n722,534715.166,0\n723,535183.6899,0\n724,534369.83,0\n725,534107.983,0\n726,533939.093,0\n727,534058.916,0\n728,533769.3959,0\n729,534068.242,0\n730,533757.862,0\n731,533835.218,0\n732,533767.331,0\n733,533859.51,0\n734,534164.61,0\n735,534115.234,0\n736,534176.841,0\n737,534213.169,0\n738,533921.353,0\n739,533796.326,0\n740,533834.643,0\n741,533696.894,0\n742,533794.778,0\n743,533352.939,0\n744,533561.582,0\n745,533856.459,0\n746,533868.535,0\n747,533920.6,0\n748,533826.121,0\n749,533996.845,0\n750,534035.167,0\n751,534547.806,0\n752,534440.727,0\n753,534649.233,0\n754,534889.014,0\n755,534988.01,0\n756,535300.871,0\n757,535267.283,0\n758,535235.77,0\n759,535077.5159,0\n760,535164.325,0\n761,535382.582,0\n762,535597.443,0\n763,535394.609,0\n764,535220.015,0\n765,535148.329,0\n766,535358.838,0\n767,535037.257,0\n768,535102.233,0\n769,535319.2929,0\n770,535386.405,0\n771,535813.8,0\n772,535909.616,0\n773,535912.803,0\n774,535918.595,0\n775,535870.026,0\n776,535702.185,0\n777,535656.242,0\n778,535625.666,0\n779,535707.367,0\n780,535732.562,0\n781,535744.848,0\n782,535663.531,0\n783,535775.49,0\n784,535881.634,0\n785,535826.504,0\n786,535658.998,0\n787,535578.408,0\n788,535517.735,0\n789,535606.107,0\n790,535714.449,0\n791,535664.782,0\n792,535792.13,0\n793,535874.611,0\n794,535903.659,0\n795,535912.986,0\n796,535858.419,0\n797,536107.982,0\n798,536051.393,0\n799,536016.104,0\n800,535970.073,0\n801,535948.18,0\n802,535964.344,0\n803,536236.586,0\n804,536135.799,0\n805,536197.505,0\n806,536300.157,0\n807,536242.4229,0\n808,536219.389,0\n809,536119.139,0\n810,535931.748,0\n811,535904.79,0\n812,536084.061,0\n813,535955.126,0\n814,535806.281,0\n815,535881.757,0\n816,535857.753,0\n817,535715.779,0\n818,535586.241,0\n819,535536.629,0\n820,535564.299,0\n821,535506.545,0\n822,535676.528,0\n823,535730.232,0\n824,535925.888,0\n825,535935.876,0\n826,535444.602,0\n827,535371.853,0\n828,535292.399,0\n829,534678.87,0\n830,534768.089,0\n831,534633.088,0\n832,534781.971,0\n833,534692.076,0\n834,534831.555,0\n835,535084.79,0\n836,535070.772,0\n837,535060.5,0\n838,535038.8419,0\n839,534550.808,0\n840,534528.833,0\n841,534749.473,0\n842,534871.468,0\n843,534714.684,0\n844,534623.037,0\n845,534609.8469,0\n846,534936.993,0\n847,534896.938,0\n848,535033.978,0\n849,535065.979,0\n850,535119.954,0\n852,535190.524,0\n853,535111.311,0\n854,535023.128,0\n856,534931.657,0\n857,535141.277,0\n858,535191.404,0\n859,535127.758,0\n860,535353.387,0\n861,535383.186,0\n862,535346.81,0\n863,535300.826,0\n864,535354.807,0\n865,535398.998,0\n866,535359.937,0\n867,535394.272,0\n868,535274.632,0\n869,535452.401,0\n870,535326.4399,0\n871,535556.532,0\n872,535480.7929,0\n873,535186.025,0\n874,535319.02,0\n875,535433.4719,0\n876,535479.193,0\n877,535684.046,0\n878,535785.8149,0\n879,535670.612,0\n880,535703.961,0\n881,535641.576,0\n882,535610.801,0\n883,535847.178,0\n884,535810.358,0\n885,535372.493,0\n886,535103.7659,0\n887,535097.104,0\n888,535139.851,0\n889,535179.305,0\n890,535068.926,0\n891,535088.665,0\n892,534752.382,0\n893,534839.02,0\n894,534551.824,0\n895,534601.046,0\n896,534781.0479,0\n897,534713.231,0\n898,534836.5699,0\n899,534325.2709,0\n900,534308.638,0\n901,533819.933,0\n902,533929.116,0\n903,534046.9399,0\n904,534201.783,0\n905,534359.562,0\n906,534244.0209,0\n907,534018.157,0\n908,534166.046,0\n909,534263.155,0\n910,534316.586,0\n911,534086.697,0\n912,534180.885,0\n913,534350.529,0\n914,534525.497,0\n915,530226.199,0\na1490362200,532470.719,0\n1,533058.6729,0\n2,533135.394,0\n3,533240.892,0\n4,533247.803,0\n5,533353,0\n6,533398.751,0\n7,534010.28,0\n8,533988.469,0\n9,533941.374,0\n10,533797.485,0\n11,533896.2929,0\n12,533817.952,0\n13,533344.518,0\n14,533341.386,0\n15,533396.212,0\n16,533381.174,0\n17,533088.074,0\n18,533231.623,0\n19,533022.109,0\n20,532934.715,0\n21,533102.308,0\n22,533014.208,0\n23,533281.131,0\n24,533456.969,0\n25,533099.59,0\n26,533096.458,0\n27,533038.145,0\n28,533062.758,0\n29,533196.2709,0\n30,533033.385,0\n31,533196.193,0\n32,533157.261,0\n33,533273.228,0\n34,533274.1,0\n35,533235.375,0\n",_5Y:"EXCHANGE%3DINDEXCAT\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=604800\nCOLUMNS=DATE,CLOSE,VOLUME,CDAYS\nDATA=\nTIMEZONE_OFFSET=-240\na1370030400,371548.538,0,5\n1,372704.335,0,5\n2,366861.258,0,5\n3,358268.216,0,5\n4,360173.399,0,5\n5,366603.627,0,5\n6,379024.552,0,5\n7,358269.113,0,5\n8,362505.54,0,5\n9,369712.583,0,5\n10,366019.479,0,5\n11,364721.642,0,5\n12,368011.141,0,5\n13,359647.095,0,5\n14,366773.008,0,5\n15,373091.472,0,5\n16,376954.209,0,5\na1380225600,377896.543,0,5\na1380916800,376873.372,0,5\n1,376712.344,0,5\n2,386908.703,0,5\n3,387959.752,0,5\n4,386625.84,0,5\nTIMEZONE_OFFSET=-300\na1383944400,387660.025,0,5\n1,392040.862,0,5\n2,389847.192,0,5\na1385586000,395268.863,0,5\na1386363600,399001.334,0,5\n1,391934.057,0,5\n2,401400.787,0,5\n3,407312.539,0,5\n4,403963.947,0,5\n5,405473.312,0,5\n6,410726.997,0,5\n7,400143.299,0,5\n8,395704.513,0,5\na1391720400,392671.371,0,5\na1392411600,409403.177,0,5\na1392930000,411177.534,0,5\na1393621200,414012.83,0,5\n1,416900.628,0,5\nTIMEZONE_OFFSET=-240\na1394827200,406464.283,0,5\n1,414000.141,0,5\n2,409411.511,0,5\n3,406496.806,0,5\n4,397771.215,0,5\na1397764800,405496.155,0,5\na1398456000,398795.048,0,5\n1,402234.545,0,5\n2,396400.79,0,5\n3,399675.416,0,5\n4,408683.32,0,5\n5,413282.509,0,5\n6,418891.293,0,5\na1402516800,420702.65,0,5\na1403294400,422649.214,0,5\n1,425401.931,0,5\na1404331200,431772.668,0,5\na1405108800,429542.567,0,5\n1,434575.963,0,5\n2,435497.336,0,5\n3,425017.594,0,5\n4,424097.473,0,5\n5,431497.916,0,5\n6,440465.714,0,5\n7,442782.763,0,5\n8,443297.417,0,5\n9,441294.516,0,5\n10,442862.975,0,5\n11,435479.094,0,5\n12,431838.933,0,5\n13,412937.881,0,5\n14,408427.385,0,5\n15,422245.233,0,5\n16,437396.012,0,5\nTIMEZONE_OFFSET=-300\na1415394000,437275.934,0,5\n1,447094.765,0,5\n2,448962.806,0,5\na1417035600,455515.677,0,5\na1417813200,453092.817,0,5\n1,436484.296,0,5\n2,445802.884,0,5\n3,453017.929,0,5\n4,443392.735,0,5\n5,439524.418,0,5\n6,431682.148,0,5\n7,445784.613,0,5\n8,431491.142,0,5\n9,439224.679,0,5\n10,460027.036,0,5\n11,463479.975,0,5\n12,462742.537,0,5\n13,457857.664,0,5\nTIMEZONE_OFFSET=-240\na1426276800,448027.812,0,5\n1,460249.183,0,5\n2,447268.967,0,5\na1428004800,447731.918,0,5\na1428696000,456524.809,0,5\n1,449208.393,0,5\n2,468248.948,0,5\n3,462683.812,0,5\n4,461085.635,0,5\n5,464317.207,0,5\n6,467328.35,0,5\n7,465714.824,0,5\n8,462547.568,0,5\n9,458758.949,0,5\n10,462345.679,0,5\n11,452675.457,0,5\na1435867200,448340.688,0,5\na1436558400,441755.243,0,5\n1,454251.368,0,5\n2,449705.05,0,5\n3,449834.082,0,5\n4,444987.253,0,5\n5,443447.588,0,5\n6,412637.554,0,5\n7,424497.581,0,5\n8,419665.838,0,5\n9,424312.84,0,5\n10,429170.551,0,5\n11,418567.041,0,5\n12,423489.23,0,5\n13,438355.856,0,5\n14,443204.036,0,5\n15,460664.222,0,5\n16,458326.762,0,5\nTIMEZONE_OFFSET=-300\na1446843600,464830.093,0,5\n1,454136.103,0,5\n2,463384.79,0,5\n3,462187.506,0,5\n4,458601.759,0,5\n5,448675.686,0,5\n6,444811.431,0,5\na1450904400,451524.389,0,5\na1451595600,450252.073,0,5\na1452286800,419752.276,0,5\n1,22199.141,0,5\n2,359345.14,0,5\n3,419834.731,0,5\n4,383245.467,0,5\n5,392170.908,0,5\n6,408183.391,0,5\n7,412541.828,0,5\n8,429074.237,0,5\n9,432297.818,0,5\nTIMEZONE_OFFSET=-240\na1458331200,441008.295,0,5\na1458849600,439816.401,0,5\na1459540800,449636.857,0,5\n1,444356.63,0,5\n2,448768.001,0,5\n3,440338.223,0,5\n4,418841.685,0,5\n5,424329.026,0,5\n6,423796.472,0,5\n7,429965.25,0,5\n8,449498.294,0,5\n9,446283.53,0,5\n10,440373.552,0,5\n11,433880.516,0,5\n12,412821.677,0,5\n13,442244.754,0,5\n14,455042.895,0,5\n15,455259.537,0,5\n16,468648.169,0,5\n17,475023.714,0,5\n18,485750.663,0,5\n19,482340.148,0,5\n20,482986.379,0,5\n21,483299.408,0,5\n22,488040.428,0,5\n23,455026.131,0,5\n24,475371.668,0,5\n25,479729.235,0,5\n26,490422.751,0,5\n27,486149.192,0,5\n28,483184.628,0,5\n29,485074.471,0,5\n30,476878.575,0,5\n31,464622.602,0,5\nTIMEZONE_OFFSET=-300\na1478898000,474898.353,0,5\n1,479554.787,0,5\na1479934800,479741.089,0,5\na1480712400,472107.86,0,5\n1,491958.456,0,5\n2,486644.126,0,5\n3,492571.337,0,5\n4,481336.191,0,5\n5,500951.043,0,5\n6,498534.294,0,5\n7,500275.609,0,5\n8,511537.968,0,5\n9,510420.957,0,5\n10,515913.965,0,5\n11,525864.207,0,5\n12,526954.105,0,5\n13,528596.243,0,5\n14,533419.973,0,5\nTIMEZONE_OFFSET=-240\na1489780800,536585.973,0,5\n"}};
+google.finance.data.numberFormat = [{'threshold':1000000, 'symbol':'M'}, {'threshold':1000000000,'symbol':'B'}, {'threshold':1000000000000,'symbol':'T'}] ;
+_setStickyUrlParams("ei=QTDVWLGWHdPTjAHDn6_wDQ");
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(initCategoryPage);
+</script></div></div><script>var googlefinance = {i: ["f.b.id","",null,0,"",0,null,["f.b.cf","9R147Dhnn8c.en_US.",0],[],1,[],"QTDVWLGWHdPTjAHDn6_wDQ","www.google.com","vXBMdAipBfNwIjQGL7Wi30tUKs8:1490366531336",1]}; GF_domReady = 1;</script></body></html>

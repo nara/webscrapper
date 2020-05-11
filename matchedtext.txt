@@ -1,0 +1,4 @@
+<tr class="childRow hidden" id="ratio_SalesNet1YrGrowth">
+            <td class="rowTitle">Sales Growth</td>
+            <td class="valueCell ">-</td><td class="valueCell pos-bottom">10.19%</td><td class="valueCell pos-top">80.29%</td><td class="valueCell neg">-1.01%</td><td class="valueCell neg">-23.43%</td><td class="miniGraphCell"><div class="miniGraph" data-chart="{&quot;chartValues&quot;:[null,0.1018945834345397133835316978,0.8029317755979279179984569602,-0.0101479398459469372783958919,-0.2342514822134387351778656126]}"></div></div></td>
+        </tr>
